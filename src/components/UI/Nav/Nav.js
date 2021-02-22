@@ -22,8 +22,8 @@ const Nav = () => {
   return (
     <nav className={`navbar navbar-expand-md bg-light ${navClass}`}>
       <div className='container'>
-        <a className='navbar-brand' href='!#'>
-          <span>Root</span>
+ <a className='navbar-brand order-md-last order-0' href='!#'>
+          <span>استشارة</span>
           <i className='fas fa-circle ml-1' />
         </a>
         <div
@@ -46,23 +46,25 @@ const Nav = () => {
         >
           <ul className='navbar-nav ml-auto'>
           <li className='nav-item'>
-              <Link target='about' classes='nav-link'>
-              عن استشارة
+              <Link target='contact' classes='nav-link'>
+                اتصل بنا
               </Link>
             </li>
+   
+ 
           <li className='nav-item'>
+              <Link target='blog' classes='nav-link'>
+              عملاؤنا
+              </Link>
+            </li>
+            <li className='nav-item'>
               <Link target='services' classes='nav-link'>
                 حلولنا الاستشارية
               </Link>
             </li>
-          <li className='nav-item'>
-              <Link target='blog' classes='nav-link'>
-                Blog
-              </Link>
-            </li>
-          <li className='nav-item'>
-              <Link target='contact' classes='nav-link'>
-                اتصل بنا
+            <li className='nav-item'>
+              <Link target='about' classes='nav-link'>
+              عن استشارة
               </Link>
             </li>
             <li className='nav-item'>

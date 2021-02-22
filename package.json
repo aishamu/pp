@@ -2,7 +2,7 @@
   "name": "trading_website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/aishamu/pp.git",
+  "homepage": "https://aishamu.github.io/pp/",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.9.0",
     "bootstrap": "^4.3.1",
