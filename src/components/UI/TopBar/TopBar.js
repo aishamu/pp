@@ -8,27 +8,24 @@ const topBar = () => {
           <div className='d-flex pt-2 pb-2'>
             <div className='d-flex align-item-center mr-3'>
               <i className='fas fa-phone-alt mr-2' />
-              <small>+213 (0) 123 456 789</small>
+              <small>012-612-5731
+            <br></br>
+              055-673-7325</small>
             </div>
             <div className='d-flex align-item-center'>
               <i className='fas fa-envelope mr-2' />
-              <small>contact@email.com</small>
+              <small>infom@esttishara.com</small>
             </div>
           </div>
           <div className='d-flex pt-2 pb-2'>
             <div className='social-media d-flex align-item-center'>
               <a href='!#' className='text-light'>
-                <i className='fab fa-facebook-f mr-4' />
+                <i className='fab fa-linkedin mr-4' />
               </a>
               <a href='!#' className='text-light'>
                 <i className='fab fa-twitter mr-4' />
               </a>
-              <a href='!#' className='text-light'>
-                <i className='fab fa-instagram mr-4' />
-              </a>
-              <a href='!#' className='text-light'>
-                <i className='fab fa-github' />
-              </a>
+     
             </div>
           </div>
         </div>

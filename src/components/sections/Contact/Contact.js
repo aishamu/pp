@@ -23,32 +23,56 @@ const contact = () => {
     <div class="container">
       <div class="row">
 
-        <div class="col-md-8">
-          <div class="location text-center">
-            <h3><span class="glyphicon glyphicon-map-marker icon-location"></span></h3>
-            <h4>Location</h4>
-            <h5>Near King medical hall Moradabad, Uttar Pradesh, india 244001</h5>
+        <div class="col-md">
+          <div class="location text-right">
+            <h3  style={{float : 'center'}} > <i class='fas fa-map-marker-alt'></i></h3>
+            
+            <h5>طريق الأمير سلطان حي النهضة ، مبنى تاج السلطان للأعمال الدور الثاني 
+<br></br>
+              جدة،المملكة العربية السعودية
+            </h5>
           
  
 </div>
         </div>
  
-        <div class="col-md-8">
+
+        <div class="col-md">
+          <div class="phone text-center">
+          <h3  style={{float : 'center'}} > <i class='fa fa-phone'></i></h3>
+             <h5>012-612-5731
+            <br></br>
+              055-673-7325
+              <br></br>
+              ص.ب: 23523-4256
+            </h5>
+          </div>
+        </div>
+
+        <div class="col-md">
           <div class="email text-center">
-            <h3><span class="glyphicon glyphicon-envelope icon-email"></span></h3>
-            <h4>Email</h4>
-            <h5>Bilalahmedim@gmail.com</h5>
+          <h3  style={{float : 'center'}} > <i class='fa fa-wifi	
+'></i></h3>
+            
+      <h5>www.esttishara.com</h5>   
+                        <i  style={{float : 'left', paddingRight : '5px'}} class='fa fa-envelope
+'> infom@esttishara.com</i> 
+                        
+                         <i style={{float : 'left', paddingRight : '5px'}}  className='fab fa-twitter'
+                          /> Esttishara
+
+<br></br>
+                          <i style={{float : 'left', paddingRight : '5px'}}  className='fab fa-linkedin'
+                          /> Esttishara
+
+
+
+ 
           </div>
         </div>
  
 
-        <div class="col-md-8">
-          <div class="phone text-center">
-            <h3><span class="glyphicon glyphicon-phone icon-phone"></span></h3>
-            <h4>Phone</h4>
-            <h5>none</h5>
-          </div>
-        </div>
+
  
       </div>
     </div>
