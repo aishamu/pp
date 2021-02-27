@@ -1,6 +1,9 @@
 import React, { Fragment } from 'react';
 
 import Home from './Home/Home';
+import Advisors from './Advisors/Advisors';
+import Versions from './Versions/Versions';
+
 import About from './About/About';
 import Service from './Service/Service';
 import Facts from './Facts/Facts';
@@ -13,9 +16,11 @@ const sections = () => {
     <Fragment>
       <Home />
       <About />
+      <Advisors/>
       <Service />
       <Blog />
       <Facts />
+      <Versions/>
       <Contact />
       <MapMarker />
     </Fragment>

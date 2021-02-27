@@ -50,7 +50,11 @@ const Nav = () => {
                 اتصل بنا
               </Link>
             </li>
-   
+            <li className='nav-item'>
+              <Link target='Versions' classes='nav-link'>
+               اصداراتنا 
+              </Link>
+            </li>
  
           <li className='nav-item'>
               <Link target='blog' classes='nav-link'>
@@ -60,6 +64,11 @@ const Nav = () => {
             <li className='nav-item'>
               <Link target='services' classes='nav-link'>
                 حلولنا الاستشارية
+              </Link>
+            </li>
+            <li className='nav-item'>
+              <Link target='Advisors' classes='nav-link'>
+              المستشارين
               </Link>
             </li>
             <li className='nav-item'>
