@@ -51,7 +51,7 @@ const Nav = () => {
               </Link>
             </li>
             <li className='nav-item'>
-              <Link target='Versions' classes='nav-link'>
+              <Link target='Vers' classes='nav-link'>
                اصداراتنا 
               </Link>
             </li>

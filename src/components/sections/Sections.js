@@ -2,7 +2,7 @@ import React, { Fragment } from 'react';
 
 import Home from './Home/Home';
 import Advisors from './Advisors/Advisors';
-import Versions from './Versions/Versions';
+import Vers from './Vers/Vers';
 
 import About from './About/About';
 import Service from './Service/Service';
@@ -20,7 +20,7 @@ const sections = () => {
       <Service />
       <Blog />
       <Facts />
-      <Versions/>
+      <Vers/>
       <Contact />
       <MapMarker />
     </Fragment>
