@@ -21,9 +21,9 @@ const about = () => {
               </div>
             </div>
             <div className='col-md-12 col-lg-6'>
-              <h3 className='about-title'>عن استشارة</h3>
+              <h3 className='about-title text-right'>عن استشارة</h3>
               <div className='about-description'>
-                <p>
+              <p className='text-right'>
                 من نحن
 
 نحن اشبه بجامعة علمية قررت العمل في القطاع الخاص بالتعاون مع قيادات اكاديمية مرموقة و ذات خبرات علمية و عملية عريضة فاننا في استشارة نتيح لعملاؤنا صفوة خبرات المجتمع الاكاديمي في المجالات الاداريةو الصناعية و نطمح بذلك ان نكوم جهة موثوقة ذات رأي سديد و مرجع مهم و ناصح آمين للراغبين في تحصيل استشارة مبنية على علم و دراية و تهتم بأدق التفاصيل
@@ -39,9 +39,9 @@ const about = () => {
           <div className='row'>
     
             <div className='col-md-12 col-lg-6'>
-              <h3 className='about-title'>رؤيتنا</h3>
+              <h3 className='about-title text-right' >رؤيتنا</h3>
               <div className='about-description'>
-                <p>
+                <p className='text-right'>
                 
 
 ان نكون افضل جهة استشارية في المملكة في تقديم الاستشارات و الحلول المهنية التي تتعلق بالمجالات الصناعية و الادارية بكل مصداقية و احترافية
@@ -64,9 +64,9 @@ const about = () => {
               </div>
             </div>
             <div className='col-md-12 col-lg-6'>
-              <h3 className='about-title'>رسالتنا</h3>
+              <h3 className='about-title text-right'>رسالتنا</h3>
               <div className='about-description'>
-                <p>
+              <p className='text-right'>
           
 
 
