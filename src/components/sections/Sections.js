@@ -16,8 +16,8 @@ const sections = () => {
     <Fragment>
       <Home />
       <About />
-      <Advisors/>
       <Service />
+      <Advisors/>
       <Blog />
       <Facts />
       <Vers/>

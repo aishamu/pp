@@ -61,14 +61,15 @@ const Nav = () => {
               عملاؤنا
               </Link>
             </li>
-            <li className='nav-item'>
-              <Link target='services' classes='nav-link'>
-                حلولنا الاستشارية
-              </Link>
-            </li>
+    
             <li className='nav-item'>
               <Link target='Advisors' classes='nav-link'>
               المستشارين
+              </Link>
+            </li>
+            <li className='nav-item'>
+              <Link target='services' classes='nav-link'>
+                حلولنا الاستشارية
               </Link>
             </li>
             <li className='nav-item'>
