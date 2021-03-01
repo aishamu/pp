@@ -39,7 +39,7 @@ const Nav = () => {
         </div>
 
         <div
-          className={`collapse navbar-collapse text-right ${(() => {
+          className={`collapse navbar-collapse  navbar-expand-sm text-right ${(() => {
             if (toggeledNav) return 'show';
             return '';
           })()}`}

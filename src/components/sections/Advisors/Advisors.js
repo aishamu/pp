@@ -1,8 +1,17 @@
 import React from 'react';
 
 import Section from '../../../HOC/Section';
- 
+import Image01 from '../../../assets/img/saeed.png';
+import Image02 from '../../../assets/img/nabeel.png';
+import Image03 from '../../../assets/img/hesham.png';
+import Image04 from '../../../assets/img/balbed.png';
+import Image05 from '../../../assets/img/fe.png';
+import Image06 from '../../../assets/img/ab.png';
 
+
+import Image07 from '../../../assets/img/mu.png';
+import Image08 from '../../../assets/img/ra.png';
+ 
 const Advisors = () => {
   return (
     
@@ -14,13 +23,13 @@ const Advisors = () => {
       
         </div>
  <div class="container">
-                    <div class="row">
+                    <div class="row" dir='rtl'>
                  
 
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="https://image.freepik.com/free-photo/man-standing-with-a-black-t-shirt_1187-1045.jpg" alt="team member" class="img-responsive"/>
+                                    <img src={Image01} alt="team member" class="img-responsive" height='450px'/>
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -45,7 +54,7 @@ const Advisors = () => {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="https://image.freepik.com/free-photo/elegant-man-with-thumbs-up_1149-1595.jpg" alt="team member" class="img-responsive"/>
+                                <img src={Image02} alt="team member" class="img-responsive" height='450px'/>
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -79,7 +88,7 @@ const Advisors = () => {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="https://image.freepik.com/free-photo/well-dressed-executive-with-crossed-arms_1098-3930.jpg" alt="team member" class="img-responsive"/>
+                                <img src={Image03} alt="team member" class="img-responsive" height='450px'/>
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -110,13 +119,13 @@ const Advisors = () => {
                         </div>
 
                     </div>
-                    <div class="row">
+                    <div class="row"dir='rtl'>
                    
 
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="https://image.freepik.com/free-photo/man-standing-with-a-black-t-shirt_1187-1045.jpg" alt="team member" class="img-responsive"/>
+                                <img src={Image04} alt="team member" class="img-responsive" height='450px'/>
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -151,7 +160,7 @@ const Advisors = () => {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="https://image.freepik.com/free-photo/elegant-man-with-thumbs-up_1149-1595.jpg" alt="team member" class="img-responsive"/>
+                                <img src={Image05} alt="team member" class="img-responsive" height='450px'/>
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -186,7 +195,7 @@ const Advisors = () => {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="https://image.freepik.com/free-photo/well-dressed-executive-with-crossed-arms_1098-3930.jpg" alt="team member" class="img-responsive"/>
+                                <img src={Image06} alt="team member" class="img-responsive" height='450px'/>
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -218,13 +227,13 @@ const Advisors = () => {
                         </div>
 
                     </div>
-                    <div class="row">
+                    <div class="row"dir='rtl'>
                       
 
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="https://image.freepik.com/free-photo/man-standing-with-a-black-t-shirt_1187-1045.jpg" alt="team member" class="img-responsive"/>
+                                <img src={Image07} alt="team member" class="img-responsive" height='450px'/>
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -249,7 +258,7 @@ const Advisors = () => {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="https://image.freepik.com/free-photo/elegant-man-with-thumbs-up_1149-1595.jpg" alt="team member" class="img-responsive"/>
+                                <img src={Image08} alt="team member" class="img-responsive" height='450px'/>
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
