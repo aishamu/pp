@@ -44,8 +44,7 @@ const Nav = () => {
             return '';
           })()}`}
         >
-          <ul className='navbar-nav ml-auto' style={{ flexDirection: 'column-reverse'}}  
->
+          <ul className='navbar-nav ml-auto'>
           <li className='nav-item'>
               <Link target='contact' classes='nav-link'>
                 اتصل بنا
