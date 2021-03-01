@@ -39,12 +39,13 @@ const Nav = () => {
         </div>
 
         <div
-          className={`collapse navbar-collapse ${(() => {
+          className={`collapse navbar-collapse text-right ${(() => {
             if (toggeledNav) return 'show';
             return '';
           })()}`}
         >
-          <ul className='navbar-nav ml-auto'>
+          <ul className='navbar-nav ml-auto' style={{ flexDirection: 'column-reverse'}}  
+>
           <li className='nav-item'>
               <Link target='contact' classes='nav-link'>
                 اتصل بنا
