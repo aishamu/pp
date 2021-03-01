@@ -1,10 +1,7 @@
 import React from 'react';
 
 import Section from '../../../HOC/Section';
-
-import blogImage1 from '../../../assets/img/blog1.jpg';
-import blogImage2 from '../../../assets/img/blog2.jpg';
-import blogImage3 from '../../../assets/img/blog3.jpg';
+ 
 
 const Advisors = () => {
   return (
@@ -211,11 +208,7 @@ const Advisors = () => {
                                         <p>الادارة الهندسية</p>
                                         <p>تخطيط المنشآت </p>
                                     </div>
-                                    <div class="s-link">
-                                        <a href="#"><i class="fa fa-facebook"></i></a>
-                                        <a href="#"><i class="fa fa-twitter"></i></a>
-                                        <a href="#"><i class="fa fa-google-plus"></i></a>
-                                    </div>
+                            
                                 </div>
                             </div>
                             <div class="team-title text-center">

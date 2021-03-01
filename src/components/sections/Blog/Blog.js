@@ -19,125 +19,67 @@ const Blog = () => {
           </h6>
         </div>
         <div className='section-content'>
-          <div className='row'>
-            <div className='col-lg-4 mb-3'>
-              <div className='card rounded-0'>
-                <img src={blogImage1} className='card-img-top' alt='Blog 1' />
-                <div className='card-body'>
-                  <h5 className='card-title'>TEXT</h5>
-                  <p className='card-text'>
-          
-                  </p>
-          
-                </div>
-              </div>
-            </div>
-            <div className='col-lg-4 mb-3'>
-              <div className='card rounded-0'>
-                <img src={blogImage2} className='card-img-top' alt='Blog 2' />
-                <div className='card-body'>
-                  <h5 className='card-title'>TEXT</h5>
-                  <p className='card-text'>
-            
-                  </p>
-         
-                </div>
-              </div>
-            </div>
-            <div className='col-lg-4 mb-3'>
-              <div className='card rounded-0'>
-                <img src={blogImage3} className='card-img-top' alt='Blog 3' />
-                <div className='card-body'>
-                  <h5 className='card-title'>TEXT</h5>
-                  <p className='card-text'>
-        
-                  </p>
-           
-                </div>
-              </div>
-            </div>
  
-          </div>
-          <div className='row'>
-            <div className='col-lg-4 mb-3'>
-              <div className='card rounded-0'>
-                <img src={blogImage1} className='card-img-top' alt='Blog 1' />
-                <div className='card-body'>
-                  <h5 className='card-title'>TEXT</h5>
-                  <p className='card-text'>
-          
-                  </p>
-          
-                </div>
-              </div>
-            </div>
-            <div className='col-lg-4 mb-3'>
-              <div className='card rounded-0'>
-                <img src={blogImage2} className='card-img-top' alt='Blog 2' />
-                <div className='card-body'>
-                  <h5 className='card-title'>TEXT</h5>
-                  <p className='card-text'>
-            
-                  </p>
-         
-                </div>
-              </div>
-            </div>
-            <div className='col-lg-4 mb-3'>
-              <div className='card rounded-0'>
-                <img src={blogImage3} className='card-img-top' alt='Blog 3' />
-                <div className='card-body'>
-                  <h5 className='card-title'>TEXT</h5>
-                  <p className='card-text'>
-        
-                  </p>
-           
-                </div>
-              </div>
-            </div>
  
-          </div>
 
           <div className='row'>
-            <div className='col-lg-4 mb-3'>
+          <div className='col-lg-3 mb-3'>
               <div className='card rounded-0'>
                 <img src={blogImage1} className='card-img-top' alt='Blog 1' />
-                <div className='card-body'>
-                  <h5 className='card-title'>TEXT</h5>
-                  <p className='card-text'>
  
-                  </p>
-     
-                </div>
               </div>
             </div>
  
-            <div className='col-lg-4 mb-3'>
+            <div className='col-lg-3 mb-3'>
               <div className='card rounded-0'>
                 <img src={blogImage2} className='card-img-top' alt='Blog 2' />
-                <div className='card-body'>
-                  <h5 className='card-title'>TEXT</h5>
-                  <p className='card-text'>
-            
-                  </p>
-   
-                </div>
+ 
               </div>
             </div>
-            <div className='col-lg-4 mb-3'>
+            <div className='col-lg-3 mb-3'>
               <div className='card rounded-0'>
                 <img src={blogImage3} className='card-img-top' alt='Blog 3' />
-                <div className='card-body'>
-                  <h5 className='card-title'>TEXT</h5>
-                  <p className='card-text'>
  
-                  </p>
+              </div>
+            </div>
+            <div className='col-lg-3 mb-3'>
+              <div className='card rounded-0'>
+                <img src={blogImage3} className='card-img-top' alt='Blog 3' />
  
-                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div className='row'>
+          <div className='col-lg-3 mb-3'>
+              <div className='card rounded-0'>
+                <img src={blogImage1} className='card-img-top' alt='Blog 1' />
+   
+              </div>
+            </div>
+ 
+            <div className='col-lg-3 mb-3'>
+              <div className='card rounded-0'>
+                <img src={blogImage2} className='card-img-top' alt='Blog 2' />
+    
+              </div>
+            </div>
+            <div className='col-lg-3 mb-3'>
+              <div className='card rounded-0'>
+                <img src={blogImage3} className='card-img-top' alt='Blog 3' />
+ 
+              </div>
+            </div>
+            <div className='col-lg-3 mb-3'>
+              <div className='card rounded-0'>
+                <img src={blogImage3} className='card-img-top' alt='Blog 3' />
+  
               </div>
             </div>
             
           </div>
+          
           
         </div>
       </div>
