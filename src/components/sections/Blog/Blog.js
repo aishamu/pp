@@ -3,8 +3,7 @@ import React from 'react';
 import Section from '../../../HOC/Section';
 
 import blogImage1 from '../../../assets/img/blog1.jpg';
-import blogImage2 from '../../../assets/img/blog2.jpg';
-import blogImage3 from '../../../assets/img/blog3.jpg';
+ import blogImage3 from '../../../assets/img/blog3.jpg';
 
 
 import Image1 from '../../../assets/img/jed.png';

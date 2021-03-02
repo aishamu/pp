@@ -11,7 +11,8 @@ import Image06 from '../../../assets/img/ab.png';
 
 import Image07 from '../../../assets/img/mu.png';
 import Image08 from '../../../assets/img/ra.png';
- 
+import Image09 from '../../../assets/img/ss.png';
+
 const Advisors = () => {
   return (
     
@@ -22,14 +23,15 @@ const Advisors = () => {
           </h3>
       
         </div>
- <div class="container">
+ <div class="container" >
+   
                     <div class="row" dir='rtl'>
                  
 
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src={Image01} alt="team member" class="img-responsive" height='450px'/>
+                                    <img src={Image01} alt="team member" class="img-responsive"  height='400px' width='350px'/>
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -54,7 +56,7 @@ const Advisors = () => {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                <img src={Image02} alt="team member" class="img-responsive" height='450px'/>
+                                <img src={Image02} alt="team member" class="img-responsive" height='400px' width='350px'/>
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -88,7 +90,7 @@ const Advisors = () => {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                <img src={Image03} alt="team member" class="img-responsive" height='450px'/>
+                                <img src={Image03} alt="team member" class="img-responsive"  height='400px' width='350px'/>
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -125,7 +127,7 @@ const Advisors = () => {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                <img src={Image04} alt="team member" class="img-responsive" height='450px'/>
+                                <img src={Image04} alt="team member" class="img-responsive"  height='400px' width='350px'/>
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -160,7 +162,7 @@ const Advisors = () => {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                <img src={Image05} alt="team member" class="img-responsive" height='450px'/>
+                                <img src={Image05} alt="team member" class="img-responsive"  height='400px' width='350px'/>
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -195,7 +197,7 @@ const Advisors = () => {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                <img src={Image06} alt="team member" class="img-responsive" height='450px'/>
+                                <img src={Image06} alt="team member" class="img-responsive"  height='400px' width='350px'/>
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -233,7 +235,7 @@ const Advisors = () => {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                <img src={Image07} alt="team member" class="img-responsive" height='450px'/>
+                                <img src={Image07} alt="team member" class="img-responsive"  height='400px' width='350px'/>
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -258,7 +260,7 @@ const Advisors = () => {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                <img src={Image08} alt="team member" class="img-responsive" height='450px'/>
+                                <img src={Image08} alt="team member" class="img-responsive"  height='400px' width='350px'/>
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
@@ -291,7 +293,7 @@ const Advisors = () => {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member">
                                 <div class="team-img">
-                                    <img src="https://image.freepik.com/free-photo/well-dressed-executive-with-crossed-arms_1098-3930.jpg" alt="team member" class="img-responsive"/>
+                                <img src={Image09} alt="team member" class="img-responsive"  height='400px' width='350px'/>
                                 </div>
                                 <div class="team-hover">
                                     <div class="desk">
