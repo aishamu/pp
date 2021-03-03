@@ -24,7 +24,7 @@ const Nav = () => {
     <nav className={`navbar navbar-expand-md bg-light ${navClass}`}>
       <div className='container'>
  <a className='navbar-brand order-md-last order-0' href='!#'>
-          <span>    <img src={logo} alt="team member" class="img-responsive" height='100px'width='210px'/></span>
+          <span>    <img src={logo} alt="team member" class="img-responsive" height='80px'width='210px'/></span>
        
          </a>
         <div
