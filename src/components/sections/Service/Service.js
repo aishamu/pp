@@ -27,20 +27,16 @@ const Service = () => {
 
         <div style={{overflowX:'auto' }}dir='rtl' className=' container  '>
   <table>
-    <tr>
+    <tr className='text-right'>
       <th >        <img src={icon3} alt="team member" class="img-responsive"  height='100px' width='150px'/>
 
 <h2>الاستشارات الادارية</h2></th>
       <th> <img src={icon2} alt="team member" class="img-responsive"  height='100px' width='150px'/>
 
 <h2>الاستشارات الصناعية</h2></th>
-      <th>        <img src={icon1} alt="team member" class="img-responsive"  height='100px' width='150px'/>
-
-<h2>الاستشارات الهندسية</h2></th>
  
-<th>        <img src={icon1} alt="team member" class="img-responsive"  height='100px' width='150px'/>
-
-<h2>الاستشارات للمطاعم</h2></th>
+ 
+ 
     </tr>
     <tr>
       <td>  <ul dir='rtl'>
@@ -76,6 +72,27 @@ const Service = () => {
  
  
 </ul> </td>
+ 
+ 
+ 
+ 
+    </tr>
+  </table>
+
+  <table>
+  <tr className='text-right'>
+ 
+      <th>        <img src={icon1} alt="team member" class="img-responsive"  height='100px' width='150px'/>
+
+<h2>الاستشارات الهندسية</h2></th>
+ 
+<th>        <img src={icon1} alt="team member" class="img-responsive"  height='100px' width='150px'/>
+
+<h2>الاستشارات للمطاعم</h2></th>
+    </tr>
+    <tr>
+ 
+ 
       <td>  <ul dir='rtl'>
  
  
