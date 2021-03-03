@@ -23,14 +23,27 @@ const Service = () => {
           </h3>
    
         </div>
-    <div className='container pt-2 pb-5'>
-        <div className='section-header pt-5 pb-5 text-center'>
-        <img src={icon3} alt="team member" class="img-responsive"  height='100px' width='150px'/>
 
-        <h2>الاستشارات الادارية</h2>
-        </div>
+
+        <div style={{overflowX:'auto' }}dir='rtl' className=' container  '>
+  <table>
+    <tr>
+      <th >        <img src={icon3} alt="team member" class="img-responsive"  height='100px' width='150px'/>
+
+<h2>الاستشارات الادارية</h2></th>
+      <th> <img src={icon2} alt="team member" class="img-responsive"  height='100px' width='150px'/>
+
+<h2>الاستشارات الصناعية</h2></th>
+      <th>        <img src={icon1} alt="team member" class="img-responsive"  height='100px' width='150px'/>
+
+<h2>الاستشارات الهندسية</h2></th>
  
-  <ul dir='rtl'>
+<th>        <img src={icon1} alt="team member" class="img-responsive"  height='100px' width='150px'/>
+
+<h2>الاستشارات للمطاعم</h2></th>
+    </tr>
+    <tr>
+      <td>  <ul dir='rtl'>
   <li style={{textAlign : 'right'}} > تصميم مؤشرات قياس الاداء</li>
   <li style={{textAlign : 'right'}} > التخطيط الاستراتيجي و اعداد خطة العمل</li>
   <li style={{textAlign : 'right'}} > التطوير الاداري و تطوير الاعمال</li>
@@ -46,18 +59,8 @@ const Service = () => {
   <li style={{textAlign : 'right'}} > تطوير و رفع كفاءة ادارة المواد البشرية و ادارتها</li>
   <li style={{textAlign : 'right'}} > دراسات الجدوى الاقتصادية و تشمل: الدراسات التسويقية - الدرسات الفنية-الدراسات المالية</li>
   
-</ul> 
-</div>
-
-
-
-<div className='container pt-2 pb-5'>
-        <div className='section-header pt-5 pb-5 text-center'>
-        <img src={icon2} alt="team member" class="img-responsive"  height='100px' width='150px'/>
-
-        <h2>الاستشارات الصناعية</h2>
-        </div>
- 
+</ul> </td>
+      <td> 
   <ul dir='rtl'>
  
   <li style={{textAlign : 'right'}} >    تأهيل الشركات للحصول على الايزو في المجالات المختلفة</li>
@@ -72,22 +75,22 @@ const Service = () => {
   <li style={{textAlign : 'right'}} > تطوير خطط الانتاج و ادارة الجودة</li>
  
  
-</ul> 
-</div>      
-     
-
+</ul> </td>
+      <td>  <ul dir='rtl'>
  
-
-
-
-
-<div className='container pt-2 pb-5'>
-        <div className='section-header pt-5 pb-5 text-center'>
-        <img src={icon1} alt="team member" class="img-responsive"  height='100px' width='150px'/>
-
-        <h2>الاستشارات الهندسية</h2>
-        </div>
  
+ <li style={{textAlign : 'right'}} >  تأهيل الشركات للحصول على الايزو في المجالات المختلفة</li>
+ <li style={{textAlign : 'right'}} >تصميم عمليات الانتاج و تصميم موقع العمل</li>
+ <li style={{textAlign : 'right'}} > تشخيص و حل المشاكل الصناعية القائمة</li>
+ <li style={{textAlign : 'right'}} >تشخيص مشكلات اداء العمليات ووضع الحلول التنفيذية لها</li>
+ <li style={{textAlign : 'right'}} >اجراءات الدراسات و تحليل البيانات لتطوير بيئة العمل الصناعية</li>
+ <li style={{textAlign : 'right'}} > اجراءات الدراسات و تحليل البيانات لتطوير بيئة العمل الصناعية</li>
+ <li style={{textAlign : 'right'}} > التأهيل و الاستشارات التشغيلية</li>
+ <li style={{textAlign : 'right'}} > تطوير خطط الانتاج و ادارة الجودة</li>
+
+
+</ul> </td>
+      <td> 
   <ul dir='rtl'>
  
  
@@ -101,32 +104,26 @@ const Service = () => {
   <li style={{textAlign : 'right'}} > تطوير خطط الانتاج و ادارة الجودة</li>
  
  
-</ul> 
-</div>   
+</ul> </td>
+ 
+ 
+    </tr>
+  </table>
+</div>
+ 
+
+
+ 
+ 
 
 
 
 
-<div className='container pt-2 pb-5'>
-        <div className='section-header pt-5 pb-5 text-center'>
-        <h2>الاستشارات للمطاعم</h2>
-        </div>
- 
-  <ul dir='rtl'>
- 
- 
-  <li style={{textAlign : 'right'}} >  تأهيل الشركات للحصول على الايزو في المجالات المختلفة</li>
-  <li style={{textAlign : 'right'}} >تصميم عمليات الانتاج و تصميم موقع العمل</li>
-  <li style={{textAlign : 'right'}} > تشخيص و حل المشاكل الصناعية القائمة</li>
-  <li style={{textAlign : 'right'}} >تشخيص مشكلات اداء العمليات ووضع الحلول التنفيذية لها</li>
-  <li style={{textAlign : 'right'}} >اجراءات الدراسات و تحليل البيانات لتطوير بيئة العمل الصناعية</li>
-  <li style={{textAlign : 'right'}} > اجراءات الدراسات و تحليل البيانات لتطوير بيئة العمل الصناعية</li>
-  <li style={{textAlign : 'right'}} > التأهيل و الاستشارات التشغيلية</li>
-  <li style={{textAlign : 'right'}} > تطوير خطط الانتاج و ادارة الجودة</li>
- 
- 
-</ul> 
-</div>   
+   
+
+
+
+
  
 
 
