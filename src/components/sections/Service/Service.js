@@ -1,6 +1,10 @@
 import React from 'react';
 
 import Section from '../../../HOC/Section';
+import icon1 from '../../../assets/img/icon1.png';
+
+import icon2 from '../../../assets/img/icon2.png';
+import icon3 from '../../../assets/img/icon3.png';
 
 const Service = () => {
   return (
@@ -21,6 +25,8 @@ const Service = () => {
         </div>
     <div className='container pt-2 pb-5'>
         <div className='section-header pt-5 pb-5 text-center'>
+        <img src={icon3} alt="team member" class="img-responsive"  height='100px' width='150px'/>
+
         <h2>الاستشارات الادارية</h2>
         </div>
  
@@ -47,6 +53,8 @@ const Service = () => {
 
 <div className='container pt-2 pb-5'>
         <div className='section-header pt-5 pb-5 text-center'>
+        <img src={icon2} alt="team member" class="img-responsive"  height='100px' width='150px'/>
+
         <h2>الاستشارات الصناعية</h2>
         </div>
  
@@ -75,6 +83,8 @@ const Service = () => {
 
 <div className='container pt-2 pb-5'>
         <div className='section-header pt-5 pb-5 text-center'>
+        <img src={icon1} alt="team member" class="img-responsive"  height='100px' width='150px'/>
+
         <h2>الاستشارات الهندسية</h2>
         </div>
  

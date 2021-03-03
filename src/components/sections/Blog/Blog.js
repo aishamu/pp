@@ -2,16 +2,16 @@ import React from 'react';
 
 import Section from '../../../HOC/Section';
 
-import blogImage1 from '../../../assets/img/blog1.jpg';
- import blogImage3 from '../../../assets/img/blog3.jpg';
-
+ 
 
 import Image1 from '../../../assets/img/jed.png';
 import Image2 from '../../../assets/img/janed.png';
 import Image3 from '../../../assets/img/star.png';
 import Image4 from '../../../assets/img/Kurkan.jpg';
-import Image5 from '../../../assets/img/laffah.jpg';
-import Image6 from '../../../assets/img/sama.jpg';
+import Image5 from '../../../assets/img/laffah.png';
+import Image6 from '../../../assets/img/sama.png';
+import Image7 from '../../../assets/img/ma.png';
+
 
 
 const Blog = () => {
@@ -40,7 +40,7 @@ const Blog = () => {
             </div>
             <div className='col-lg-3 mb-3'>
               <div className='card rounded-0'>
-                <img src={Image2} className='card-img-top' alt='Blog 3' />
+                <img src={Image2} className='card-img-top' alt='Blog 3'/>
  
               </div>
             </div>
@@ -48,7 +48,7 @@ const Blog = () => {
  
             <div className='col-lg-3 mb-3'>
               <div className='card rounded-0'>
-                <img src={blogImage1} className='card-img-top' alt='Blog 2' />
+                <img src={Image7} className='card-img-top' alt='Blog 2' />
  
               </div>
             </div>
@@ -63,12 +63,7 @@ const Blog = () => {
 
 
           <div className='row ' dir='rtl'>
-          <div className='col-lg-3 mb-3'>
-              <div className='card rounded-0'>
-                <img src={blogImage3} className='card-img-top' alt='Blog 3' />
-  
-              </div>
-            </div>
+ 
           <div className='col-lg-3 mb-3'>
               <div className='card rounded-0'>
                 <img src={Image4} className='card-img-top' alt='Blog 1' />
@@ -89,12 +84,7 @@ const Blog = () => {
               </div>
             </div>
 
-            <div className='col-lg-3 mb-3'>
-              <div className='card rounded-0'>
-                <img src={blogImage3} className='card-img-top' alt='Blog 3' />
-  
-              </div>
-            </div>
+ 
           </div>
           
           
