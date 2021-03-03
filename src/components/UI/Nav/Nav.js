@@ -49,7 +49,7 @@ const Nav = () => {
 
 
 
-          <ul className='navbar-nav ml-auto '>
+          <ul className='navbar-nav ml-auto text-right'>
 
           <li className='nav-item'>
               <Link target='home' offset={-120} classes='nav-link'>
