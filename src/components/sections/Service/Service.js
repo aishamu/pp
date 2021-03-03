@@ -28,7 +28,7 @@ const Service = () => {
         <div style={{overflowX:'auto' }}dir='rtl' className=' container  '>
   <table>
     <tr className='text-right'>
-      <th >        <img src={icon3} alt="team member" class="img-responsive"  height='100px' width='150px'/>
+      <th ><img src={icon3} alt="team member" class="img-responsive"  height='100px' width='150px'/>
 
 <h2>الاستشارات الادارية</h2></th>
       <th> <img src={icon2} alt="team member" class="img-responsive"  height='100px' width='150px'/>
@@ -78,7 +78,7 @@ const Service = () => {
  
     </tr>
   </table>
-
+<br></br>
   <table>
   <tr className='text-right'>
  
