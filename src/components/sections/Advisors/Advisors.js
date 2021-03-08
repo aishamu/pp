@@ -46,7 +46,7 @@ const Advisors = () => {
 
               <div id="open-modal" class="modal-window">
                 <div>
-                <a href="#modal-close" title="Close" class="modal-close " > &times;</a>
+                <a href="#modal-close" title="Close" class="modal-close " >  <h1>&times;</h1></a>
                     <div class="text-right">
                               <h5>المؤهلات العلمية</h5>
                               <ul>
@@ -93,7 +93,7 @@ const Advisors = () => {
 
                             <div id="open-modal1" class="modal-window">
                 <div>
-                <a href="#modal-close" title="Close" class="modal-close " > &times;</a>
+                <a href="#modal-close" title="Close" class="modal-close " >  <h1>&times;</h1></a>
                     <div class="text-right">
                               <h5>المؤهلات العلمية</h5>
                               <ul>
@@ -151,7 +151,7 @@ const Advisors = () => {
                             </div>
                             <div id="open-modal2" class="modal-window">
                 <div>
-                <a href="#modal-close" title="Close" class="modal-close " > &times;</a>
+                <a href="#modal-close" title="Close" class="modal-close " > <h1>&times;</h1></a>
                     <div class="text-right">
                               <h5>المؤهلات العلمية</h5>
                               <ul>
@@ -206,7 +206,7 @@ const Advisors = () => {
                             </div>
                             <div id="open-modal3" class="modal-window">
                 <div>
-                <a href="#modal-close" title="Close" class="modal-close " > &times;</a>
+                <a href="#modal-close" title="Close" class="modal-close " > <h1>&times;</h1></a>
                     <div class="text-right">
                               <h5>المؤهلات العلمية</h5>
                               <ul>
@@ -253,7 +253,7 @@ const Advisors = () => {
 
                             <div id="open-modal7" class="modal-window">
                 <div>
-                <a href="#modal-close" title="Close" class="modal-close " > &times;</a>
+                <a href="#modal-close" title="Close" class="modal-close " >  <h1>&times;</h1></a>
                     <div class="text-right">
                               <h5>المؤهلات العلمية</h5>
                               <ul>
@@ -300,7 +300,7 @@ const Advisors = () => {
 
                             <div id="open-modal4" class="modal-window">
                 <div>
-                <a href="#modal-close" title="Close" class="modal-close " > &times;</a>
+                <a href="#modal-close" title="Close" class="modal-close " >  <h1>&times;</h1></a>
                     <div class="text-right">
                               <h5>المؤهلات العلمية</h5>
                               <ul>
@@ -355,7 +355,7 @@ const Advisors = () => {
 
                             <div id="open-modal5" class="modal-window">
                 <div>
-                <a href="#modal-close" title="Close" class="modal-close " > &times;</a>
+                <a href="#modal-close" title="Close" class="modal-close " > <h1>&times;</h1></a>
                     <div class="text-right">
                               <h5>المؤهلات العلمية</h5>
                               <ul>
@@ -393,7 +393,7 @@ const Advisors = () => {
 
                             <div id="open-modal" class="modal-window">
                 <div>
-                <a href="#modal-close" title="Close" class="modal-close " > &times;</a>
+                <a href="#modal-close" title="Close" class="modal-close " >  <h1>&times;</h1></a>
                     <div class="text-right">
                               <h5>المؤهلات العلمية</h5>
                               <ul>
@@ -438,7 +438,7 @@ const Advisors = () => {
 
                             <div id="open-modal" class="modal-window">
                 <div>
-                <a href="#modal-close" title="Close" class="modal-close " > &times;</a>
+                <a href="#modal-close" title="Close" class="modal-close " >  <h1>&times;</h1></a>
                     <div class="text-right">
                               <h5>المؤهلات العلمية</h5>
                               <ul>
@@ -487,7 +487,7 @@ const Advisors = () => {
 
                           <div id="open-modal9" class="modal-window">
               <div>
-              <a href="#modal-close" title="Close" class="modal-close " > &times;</a>
+              <a href="#modal-close" title="Close" class="modal-close " > <h1>&times;</h1></a>
                   <div class="text-right">
                             <h5>المؤهلات العلمية</h5>
                             <ul>
@@ -532,7 +532,7 @@ const Advisors = () => {
 
                           <div id="open-modal8" class="modal-window">
               <div>
-              <a href="#modal-close" title="Close" class="modal-close " > &times;</a>
+              <a href="#modal-close" title="Close" class="modal-close " > <h1>&times;</h1></a>
                   <div class="text-right">
                             <h5>المؤهلات العلمية</h5>
                             <ul>
