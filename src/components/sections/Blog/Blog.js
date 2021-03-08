@@ -32,42 +32,43 @@ const Blog = () => {
 
           <div className='row' dir='rtl'>
 
-          <div className='col-lg-2 mb-2'>
-              <div className='card rounded-0'>
-                <img src={Image1} className='card-img-top' alt='Blog 3' />
+          <div  className='col-sm-2  ' >
+              <div  className='text-center'>
+                <img src={Image1}  alt='Blog 3' height='120px' width='120px'/>
  
               </div>
             </div>
-            <div className='col-lg-2 mb-2'>
-              <div className='card rounded-0'>
-                <img src={Image2} className='card-img-top' alt='Blog 3' />
+            <div  className='col-sm-2 ' >
+            <div  className='text-center'>
+                <img src={Image2} height='120px' width='120px'/>
  
               </div>
+              
             </div>
   
  
-            <div className='col-lg-2 mb-2'>
-              <div className='card rounded-0'>
-                <img src={Image7} className='card-img-top' alt='Blog 2' />
+            <div  className='col-sm-2'>
+            <div  className='text-center'>
+                <img src={Image7} height='120px' width='120px'/>
  
               </div>
             </div>
-            <div className='col-lg-2 mb-2'>
-              <div className='card rounded-0'>
-                <img src={Image3} className='card-img-top' alt='Blog 1' />
+            <div  className='col-sm-2 '>
+            <div  className='text-center'>
+                <img src={Image3} height='120px' width='120px'/>
  
               </div>
             </div>
-            <div className='col-lg-2 mb-2'>
-              <div className='card rounded-0'>
-                <img src={Image4} className='card-img-top' alt='Blog 1' />
+            <div className='col-sm-2 '>
+            <div  className='text-center'>
+                <img src={Image4} height='120px' width='120px'/>
    
               </div>
             </div>
  
-            <div className='col-lg-2 mb-2'>
-              <div className='card rounded-0'>
-                <img src={Image6} className='card-img-top' alt='Blog 2' />
+            <div  className='col-sm-2 '>
+            <div  className='text-center'>
+                <img src={Image6} height='120px' width='120px'/>
     
               </div>
             </div>
@@ -77,9 +78,9 @@ const Blog = () => {
           <div className='row ' dir='rtl'>
  
 
-            <div className='col-lg-2 mb-2'>
-              <div className='card rounded-0'>
-                <img src={Image5} className='card-img-top' alt='Blog 3' />
+            <div className='col-lg-2'>
+            <div  className='text-center'>
+                <img src={Image5}   height='120px' width='120px'/>
  
               </div>
             </div>
