@@ -29,9 +29,9 @@ const Advisors = () => {
                  
 
                         <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src={Image01} alt="team member" class="img-responsive"  height='250px' width='250px'/>
+                            <div class="team-member text-center">
+                                <div class="team-img ">
+                                    <img src={Image01} alt="team member" class="img-responsive "  height='150px' width='150px'/>
                                 </div>
                           
                             </div>
@@ -76,9 +76,9 @@ const Advisors = () => {
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
+                            <div class="team-member text-center">
                                 <div class="team-img">
-                                <img src={Image02} alt="team member" class="img-responsive"   height='250px' width='250px'/>
+                                <img src={Image02} alt="team member" class="img-responsive"     height='150px' width='150px'/>
                                 </div>
                         
                             </div>
@@ -131,9 +131,9 @@ const Advisors = () => {
 
 
                         <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
+                            <div class="team-member text-center">
                                 <div class="team-img">
-                                <img src={Image03} alt="team member" class="img-responsive"   height='250px' width='250px'/>
+                                <img src={Image03} alt="team member" class="img-responsive"    height='150px' width='150px'/>
                                 </div>
                    
                             </div>
@@ -191,9 +191,9 @@ const Advisors = () => {
                    
 
                         <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
+                            <div class="team-member text-center">
                                 <div class="team-img">
-                                <img src={Image04} alt="team member" class="img-responsive"    height='250px' width='250px'/>
+                                <img src={Image04} alt="team member" class="img-responsive"     height='150px' width='150px'/>
                                 </div>
                    
                             </div>
@@ -237,9 +237,9 @@ const Advisors = () => {
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
+                            <div class="team-member text-center">
                                 <div class="team-img">
-                                <img src={Image05} alt="team member" class="img-responsive"  height='250px' width='250px'/>
+                                <img src={Image05} alt="team member" class="img-responsive"   height='150px' width='150px'/>
                                 </div>
            
                             </div>
@@ -284,9 +284,9 @@ const Advisors = () => {
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
+                            <div class="team-member text-center">
                                 <div class="team-img">
-                                <img src={Image06} alt="team member" class="img-responsive"   height='250px' width='250px'/>
+                                <img src={Image06} alt="team member" class="img-responsive"     height='150px' width='150px'/>
                                 </div>
                  
                             </div>
@@ -339,9 +339,9 @@ const Advisors = () => {
                       
 
                         <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
+                            <div class="team-member text-center">
                                 <div class="team-img">
-                                <img src={Image07} alt="team member" class="img-responsive"   height='250px' width='250px'/>
+                                <img src={Image07} alt="team member" class="img-responsive"     height='150px' width='150px'/>
                                 </div>
                        
                             </div>
@@ -377,9 +377,9 @@ const Advisors = () => {
 
                         </div>
                         <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
+                            <div class="team-member text-center">
                                 <div class="team-img">
-                                <img src={Image08} alt="team member" class="img-responsive"    height='250px' width='250px'/>
+                                <img src={Image08} alt="team member" class="img-responsive"    height='150px' width='150px'/>
                                 </div>
               
                             </div>
@@ -421,9 +421,9 @@ const Advisors = () => {
  </div>  </div>
                         </div>
                         <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
+                            <div class="team-member text-center">
                                 <div class="team-img">
-                                <img src={Image09} alt="team member" class="img-responsive"   height='250px' width='250px'/>
+                                <img src={Image09} alt="team member" class="img-responsive"     height='150px' width='150px'/>
                                 </div>
                  
                             </div>

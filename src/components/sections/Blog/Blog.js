@@ -40,7 +40,7 @@ const Blog = () => {
             </div>
             <div className='col-lg-2 mb-2'>
               <div className='card rounded-0'>
-                <img src={Image2} className='card-img-top' alt='Blog 3'/>
+                <img src={Image2} className='card-img-top' alt='Blog 3' />
  
               </div>
             </div>
