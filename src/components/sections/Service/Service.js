@@ -88,7 +88,7 @@ const Service = () => {
  
 <th className='text-center'>         <img src={icon1} alt="team member" class="img-responsive"  height='60px' width='60px'/>
 
-<h4>خدمات المطاعم و المقاهي</h4></th>
+<h4>خدمات المطاعم  <br></br>والمقاهي</h4></th>
     </tr>
     <tr>
  
