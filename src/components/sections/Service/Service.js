@@ -28,12 +28,12 @@ const Service = () => {
         <div style={{overflowX:'auto' }}dir='rtl' className=' container  '>
   <table className='text-center'>
     <tr className='text-right'>
-    <th className='text-center'>  <img src={icon3} alt="team member" class="img-responsive"  height='60px' width='80px'/>
+    <th className='text-center'>  <img src={icon3} alt="team member" class="img-responsive"  height='60px' width='60px'/>
 
-<h2>الاستشارات الادارية</h2></th>
-<th className='text-center'>  <img src={icon2} alt="team member" class="img-responsive"  height='60px' width='80px'/>
+<h4>الاستشارات الادارية</h4></th>
+<th className='text-center'>  <img src={icon2} alt="team member" class="img-responsive"  height='60px' width='60px'/>
 
-<h2>الاستشارات الصناعية</h2></th>
+<h4>الاستشارات الصناعية</h4></th>
  
  
  
@@ -82,13 +82,13 @@ const Service = () => {
 <table className='text-center'>
   <tr className='text-right'>
  
-      <th className='text-center'>       <img src={icon1} alt="team member" class="img-responsive  "  height='60px' width='80px'/>
+      <th className='text-center'>       <img src={icon1} alt="team member" class="img-responsive  "  height='60px' width='60px'/>
 
-<h2>الاستشارات الهندسية</h2></th>
+<h4>الاستشارات الهندسية</h4></th>
  
-<th className='text-center'>         <img src={icon1} alt="team member" class="img-responsive"  height='60px' width='80px'/>
+<th className='text-center'>         <img src={icon1} alt="team member" class="img-responsive"  height='60px' width='60px'/>
 
-<h2>الاستشارات للمطاعم</h2></th>
+<h4>خدمات المطاعم و المقاهي</h4></th>
     </tr>
     <tr>
  
@@ -96,14 +96,14 @@ const Service = () => {
       <td>  <ul dir='rtl'>
  
  
- <li style={{textAlign : 'right'}} >  تأهيل الشركات للحصول على الايزو في المجالات المختلفة</li>
- <li style={{textAlign : 'right'}} >تصميم عمليات الانتاج و تصميم موقع العمل</li>
- <li style={{textAlign : 'right'}} > تشخيص و حل المشاكل الصناعية القائمة</li>
- <li style={{textAlign : 'right'}} >تشخيص مشكلات اداء العمليات ووضع الحلول التنفيذية لها</li>
- <li style={{textAlign : 'right'}} >اجراءات الدراسات و تحليل البيانات لتطوير بيئة العمل الصناعية</li>
- <li style={{textAlign : 'right'}} > اجراءات الدراسات و تحليل البيانات لتطوير بيئة العمل الصناعية</li>
- <li style={{textAlign : 'right'}} > التأهيل و الاستشارات التشغيلية</li>
- <li style={{textAlign : 'right'}} > تطوير خطط الانتاج و ادارة الجودة</li>
+ <li style={{textAlign : 'right'}} > المخططات و تشمل المعمارية الانشائية ،الكهربائية ، الميكانيكية</li>
+ <li style={{textAlign : 'right'}} >رخص البناء</li>
+ <li style={{textAlign : 'right'}} > التصميم الداخلي</li>
+ <li style={{textAlign : 'right'}} >الاشراف الهندسي</li>
+ <li style={{textAlign : 'right'}} >ادارة المشاريع</li>
+ <li style={{textAlign : 'right'}} >استشارات الامن و السلامة</li>
+ <li style={{textAlign : 'right'}} > التصميم الحضري </li>
+ <li style={{textAlign : 'right'}} > التخطيط</li>
 
 
 </ul> </td>
@@ -111,15 +111,15 @@ const Service = () => {
   <ul dir='rtl'>
  
  
-  <li style={{textAlign : 'right'}} >  تأهيل الشركات للحصول على الايزو في المجالات المختلفة</li>
-  <li style={{textAlign : 'right'}} >تصميم عمليات الانتاج و تصميم موقع العمل</li>
-  <li style={{textAlign : 'right'}} > تشخيص و حل المشاكل الصناعية القائمة</li>
-  <li style={{textAlign : 'right'}} >تشخيص مشكلات اداء العمليات ووضع الحلول التنفيذية لها</li>
-  <li style={{textAlign : 'right'}} >اجراءات الدراسات و تحليل البيانات لتطوير بيئة العمل الصناعية</li>
-  <li style={{textAlign : 'right'}} > اجراءات الدراسات و تحليل البيانات لتطوير بيئة العمل الصناعية</li>
-  <li style={{textAlign : 'right'}} > التأهيل و الاستشارات التشغيلية</li>
-  <li style={{textAlign : 'right'}} > تطوير خطط الانتاج و ادارة الجودة</li>
- 
+  
+  <li style={{textAlign : 'right'}} > خدمات التأسيس</li>
+ <li style={{textAlign : 'right'}} >دراسات الجدوى</li>
+ <li style={{textAlign : 'right'}} > بناء الهوية التجارية</li>
+ <li style={{textAlign : 'right'}} >نموذج العمل التجاري</li>
+ <li style={{textAlign : 'right'}} >خطط و استراتيجيات التسويق</li>
+ <li style={{textAlign : 'right'}} >  الاستشارات التشغيلية</li>
+ <li style={{textAlign : 'right'}} > حلول سلاسل الامداد</li>
+ <li style={{textAlign : 'right'}} > الاستشارات الهندسية</li>
  
 </ul> </td>
  
