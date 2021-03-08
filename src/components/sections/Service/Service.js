@@ -26,12 +26,12 @@ const Service = () => {
 
 
         <div style={{overflowX:'auto' }}dir='rtl' className=' container  '>
-  <table>
+  <table className='text-center'>
     <tr className='text-right'>
-      <th ><img src={icon3} alt="team member" class="img-responsive"  height='100px' width='150px'/>
+    <th className='text-center'>  <img src={icon3} alt="team member" class="img-responsive"  height='60px' width='80px'/>
 
 <h2>الاستشارات الادارية</h2></th>
-      <th> <img src={icon2} alt="team member" class="img-responsive"  height='100px' width='150px'/>
+<th className='text-center'>  <img src={icon2} alt="team member" class="img-responsive"  height='60px' width='80px'/>
 
 <h2>الاستشارات الصناعية</h2></th>
  
@@ -79,14 +79,14 @@ const Service = () => {
     </tr>
   </table>
 <br></br>
-  <table>
+<table className='text-center'>
   <tr className='text-right'>
  
-      <th>        <img src={icon1} alt="team member" class="img-responsive"  height='100px' width='150px'/>
+      <th className='text-center'>       <img src={icon1} alt="team member" class="img-responsive  "  height='60px' width='80px'/>
 
 <h2>الاستشارات الهندسية</h2></th>
  
-<th>        <img src={icon1} alt="team member" class="img-responsive"  height='100px' width='150px'/>
+<th className='text-center'>         <img src={icon1} alt="team member" class="img-responsive"  height='60px' width='80px'/>
 
 <h2>الاستشارات للمطاعم</h2></th>
     </tr>
