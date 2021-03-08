@@ -32,43 +32,42 @@ const Blog = () => {
 
           <div className='row' dir='rtl'>
 
-          <div  className='col-sm-2  ' >
+          <div className='col-lg-2 mb-2'>
               <div  className='text-center'>
-                <img src={Image1}  alt='Blog 3' height='120px' width='120px'/>
+                <img src={Image1}  alt='Blog 3'  height='140px' width='140px'/>
  
               </div>
             </div>
-            <div  className='col-sm-2 ' >
+            <div className='col-lg-2 mb-2'>
             <div  className='text-center'>
-                <img src={Image2} height='120px' width='120px'/>
+                <img src={Image2} height='140px' width='140px'/>
  
               </div>
-              
             </div>
   
  
-            <div  className='col-sm-2'>
+            <div className='col-lg-2 mb-2'>
             <div  className='text-center'>
-                <img src={Image7} height='120px' width='120px'/>
+                <img src={Image7}  height='140px' width='140px'/>
  
               </div>
             </div>
-            <div  className='col-sm-2 '>
+            <div className='col-lg-2 mb-2'>
             <div  className='text-center'>
-                <img src={Image3} height='120px' width='120px'/>
+                <img src={Image3}  height='140px' width='140px'/>
  
               </div>
             </div>
-            <div className='col-sm-2 '>
+            <div className='col-lg-2 mb-2'>
             <div  className='text-center'>
-                <img src={Image4} height='120px' width='120px'/>
+                <img src={Image4}  height='140px' width='140px'/>
    
               </div>
             </div>
  
-            <div  className='col-sm-2 '>
+            <div className='col-lg-2 mb-2'>
             <div  className='text-center'>
-                <img src={Image6} height='120px' width='120px'/>
+                <img src={Image6}  height='140px' width='140px'/>
     
               </div>
             </div>
@@ -78,7 +77,7 @@ const Blog = () => {
           <div className='row ' dir='rtl'>
  
 
-            <div className='col-lg-2'>
+            <div className='col-lg-2 mb-2'>
             <div  className='text-center'>
                 <img src={Image5}   height='120px' width='120px'/>
  
