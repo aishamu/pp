@@ -93,10 +93,11 @@ const Service = () => {
     <tr>
  
  
-      <td>  <ul dir='rtl'>
+      <td>  
+  <ul dir='rtl'>
  
  
- <li style={{textAlign : 'right'}} > المخططات و تشمل المعمارية الانشائية ،الكهربائية ، الميكانيكية</li>
+ <li style={{textAlign : 'right'}} > المخططات و تشمل المعمارية الانشائية، <br></br>الكهربائية ، الميكانيكية</li>
  <li style={{textAlign : 'right'}} >رخص البناء</li>
  <li style={{textAlign : 'right'}} > التصميم الداخلي</li>
  <li style={{textAlign : 'right'}} >الاشراف الهندسي</li>
@@ -106,7 +107,11 @@ const Service = () => {
  <li style={{textAlign : 'right'}} > التخطيط</li>
 
 
-</ul> </td>
+</ul> 
+
+</td>
+     
+     
       <td> 
   <ul dir='rtl'>
  
