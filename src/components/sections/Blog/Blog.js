@@ -19,18 +19,17 @@ const Blog = () => {
     <Section id='blog'>
       <div className='container '>
         <div className='section-header pt-5 pb-5 text-center'>
-          <h3 className='section-title'>
+          <h3 className='section-title '>
             <span> عملاؤنا </span>
           </h3>
           <h6 className='section-subtitle mr-auto ml-auto'>
      
           </h6>
         </div>
-        <div className='section-content'>
+        <div className='section-content ' >
  
  
-
-          <div className='row' dir='rtl'>
+           <div className='row tt' dir='rtl'>
 
       
               <div  className='text-center'>
@@ -73,9 +72,8 @@ const Blog = () => {
       
               </div>
             
-
-
-          <div className='row ' dir='rtl'>
+ 
+          <div className='row tt ' dir='rtl'>
  
 
         
