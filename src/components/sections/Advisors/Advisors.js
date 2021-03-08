@@ -467,6 +467,100 @@ const Advisors = () => {
                         </div>
 
                     </div>
+                    <div class="row"dir='rtl'>
+                      
+
+                      <div class="col-md-4 col-sm-4 ">
+                          <div class="team-member text-center">
+                              <div class="team-img">
+                              <img src={Image07} alt="team member" class="img-responsive"     height='150px' width='150px'/>
+                              </div>
+                     
+                          </div>
+                          <div class="team-title text-center">
+                          <div id="wrapper">  
+                              <h5>م.حمد بن رشيد النور</h5>
+                              <span>المديرالعام  </span>
+                              <br></br>
+                              <a href="#open-modal9">ملف التعريف</a>
+                          </div>
+
+                          <div id="open-modal9" class="modal-window">
+              <div>
+              <a href="#modal-close" title="Close" class="modal-close " > &times;</a>
+                  <div class="text-right">
+                            <h5>المؤهلات العلمية</h5>
+                            <ul>
+                            <li>حاصل على درجة البكالوريس في الهندسة الصناعية من جامعة الملك عبدالعزيز</li> 
+                                </ul>
+                           <h5>الخبرات العملية</h5>
+                           <ul>
+                           <li>مهندس تطوير إداري في امانةالعاصمة المقدسة</li> 
+                           <li> المدير العام لمجموعة الحمد</li> 
+                           <li>المدير العام للحمد للمقاولات</li> 
+
+                                      </ul>
+                           <h5>الخبرات الاستشارية</h5>
+                           <ul>
+                           <li>إدارة المخاطر </li> 
+                           <li>إدارة عمليات إعادة الهيكلة</li> 
+                           <li>الادارة الاستراتيجية</li> 
+                           <li>ادارةالمشاريع</li> 
+
+                                      </ul>    
+                                      </div>
+</div>
+</div>  </div>
+
+
+
+                      </div>
+                      <div class="col-md-4 col-sm-4">
+                          <div class="team-member text-center">
+                              <div class="team-img">
+                              <img src={Image08} alt="team member" class="img-responsive"    height='150px' width='150px'/>
+                              </div>
+            
+                          </div>
+                          <div class="team-title text-center">
+                          <div id="wrapper">  
+                              <h5>م.علي بن إبراهيم المسيدي</h5>
+                              <span>المدير التنفيذي</span>
+                              <br></br>
+                              <a href="#open-modal8">ملف التعريف</a>
+                          </div>
+
+                          <div id="open-modal8" class="modal-window">
+              <div>
+              <a href="#modal-close" title="Close" class="modal-close " > &times;</a>
+                  <div class="text-right">
+                            <h5>المؤهلات العلمية</h5>
+                            <ul>
+                                <li>درجة البكالوريس في الهندسة الصناعية بجامعة الملك عبدالعزيز</li> 
+                                </ul>
+                           <h5>الخبرات العملية</h5>
+                           <ul>
+                                      <li> مهندس في قسم الادارة العامة في شركة عبداللطيف جميل المحدودة</li>
+                                      <li> مهندس جودة في شركة البداهة للصناعات الحديثة</li>
+                                      <li> مدير المشاريع في مجموعة الحمد</li>
+                                      <li> مشرف قسم النقل و الحركة في شركة سانكيو العالمية</li>
+
+                                      </ul>
+                           <h5>الخبرات الاستشارية</h5>
+                           <ul>
+                                      <li>مؤشر قياس الاداء</li>
+                                      <li>إدارة سلاسل الامداد</li>
+                                      <li>الادارة الاستراتيجية</li>
+                                      <li>دراسات الجدوى</li>
+                                      <li>دارة الجودة</li>
+                                       </ul>    
+                                      </div>
+</div>
+</div>  </div>
+                      </div>
+ 
+
+                  </div>
                 </div>
  
     </Section>
