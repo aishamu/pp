@@ -33,13 +33,13 @@ const Blog = () => {
 
       
               <div  className='text-center'>
-                <img src={Image1}    height='110px' width='110px' hspace="20"/>
+                <img src={Image1}    height='110px' width='110px' hspace="40"/>
  
               </div>
              
      
             <div  className='text-center'>
-                <img src={Image2}  height='110px' width='110px' hspace="20"/>
+                <img src={Image2}  height='110px' width='110px' hspace="40"/>
  
               </div>
           
@@ -47,30 +47,30 @@ const Blog = () => {
  
     
             <div  className='text-center'>
-                <img src={Image7}   height='110px' width='110px' hspace="20"/>
+                <img src={Image7}   height='110px' width='110px' hspace="40"/>
  
               </div>
           
        
             <div  className='text-center'>
-                <img src={Image3}   height='110px' width='110px' hspace="20"/>
+                <img src={Image3}   height='110px' width='110px' hspace="40"/>
  
               </div>
           
      
             <div  className='text-center'>
-                <img src={Image4}   height='110px' width='110px' hspace="20"/>
+                <img src={Image4}   height='110px' width='110px' hspace="40"/>
    
               </div>
             
  
          
             <div  className='text-center'>
-                <img src={Image6}  height='110px' width='110px'  hspace="20"/>
+                <img src={Image6}  height='110px' width='110px'  hspace="40"/>
     
               </div>
               <div  className='text-center'>
-                <img src={Image5}   height='110px' width='110px' hspace="20"/>
+                <img src={Image5}   height='110px' width='110px' hspace="40"/>
  
               </div>
               </div>
