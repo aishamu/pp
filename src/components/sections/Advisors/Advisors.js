@@ -25,7 +25,10 @@ const Advisors = () => {
       
         </div>
  <div class="container" >
- <div class="row"dir='rtl'>
+ <div class="row"dir='rtl'    style={{   justifyItems: 'center'
+,  display: 'grid',
+ 
+alignItems: 'center'}} >
                       
 
                       <div class="col-md-4 col-sm-4 ">
