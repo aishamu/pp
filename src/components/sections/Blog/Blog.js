@@ -11,11 +11,12 @@ import Image4 from '../../../assets/img/Kurkan.jpg';
 import Image5 from '../../../assets/img/laffah.png';
 import Image6 from '../../../assets/img/sama.png';
 import Image7 from '../../../assets/img/ma.png';
- import Image10 from '../../../assets/img/gyias.jpg';
+ import Image10 from '../../../assets/img/Adaa.png';
  import Image11 from '../../../assets/img/AMANAHJEDDAH.png';
  import Image13 from '../../../assets/img/RI3y.jpg';
 
-import Image12 from '../../../assets/img/maz.jpeg';
+ import Image12 from '../../../assets/img/maz.jpeg';
+ import Image14 from '../../../assets/img/bnaa.png';
 
 
 
@@ -80,7 +81,7 @@ const Blog = () => {
    
               </div>
               <div  className='text-center'>
-                <img src={Image4}   height='110px' width='110px' hspace="20"/>
+                <img src={Image14}   height='110px' width='110px' hspace="20"/>
    
               </div>
  
