@@ -12,7 +12,8 @@ import Image06 from '../../../assets/img/ab.png';
 import Image07 from '../../../assets/img/mu.png';
 import Image08 from '../../../assets/img/ra.png';
 import Image09 from '../../../assets/img/ss.png';
-
+import Image10 from '../../../assets/img/ali.jpeg';
+import Image11 from '../../../assets/img/hamd.jpeg';
 const Advisors = () => {
   return (
     
@@ -24,7 +25,101 @@ const Advisors = () => {
       
         </div>
  <div class="container" >
-   
+ <div class="row"dir='rtl'>
+                      
+
+                      <div class="col-md-4 col-sm-4 ">
+                          <div class="team-member text-center">
+                              <div class="team-img">
+                              <img src={Image11} alt="team member" class="img-responsive"     height='150px' width='150px'/>
+                              </div>
+                     
+                          </div>
+                          <div class="team-title text-center">
+                          <div id="wrapper">  
+                              <h5>م.حمد بن رشيد النور</h5>
+                              <span>المديرالعام  </span>
+                              <br></br>
+                              <a href="#open-modal9">ملف التعريف</a>
+                          </div>
+
+                          <div id="open-modal9" class="modal-window">
+              <div>
+              <a href="#modal-close" title="Close" class="modal-close " > <h1>&times;</h1></a>
+                  <div class="text-right">
+                            <h5>المؤهلات العلمية</h5>
+                            <ul>
+                            <li>بكالوريوس في الهندسة الصناعية من جامعة الملك عبدالعزيز</li> 
+                                </ul>
+                           <h5>الخبرات العملية</h5>
+                           <ul>
+                               <li>مهندس مبيعات في مجموعة صافولا</li>
+                           <li>مهندس تطوير إداري في امانةالعاصمة المقدسة</li> 
+                           <li> المدير العام لمجموعة الحمد</li> 
+                           <li>المؤسس والمدير العام للحمد للمقاولات</li> 
+
+                                      </ul>
+                           <h5>الخبرات الاستشارية</h5>
+                           <ul>
+                           <li>إدارة المخاطر </li> 
+                           <li>إدارة عمليات إعادة الهيكلة</li> 
+                           <li>الادارة الاستراتيجية</li> 
+                           <li>ادارةالمشاريع</li> 
+
+                                      </ul>    
+                                      </div>
+</div>
+</div>  </div>
+
+
+
+                      </div>
+                      <div class="col-md-4 col-sm-4">
+                          <div class="team-member text-center">
+                              <div class="team-img">
+                              <img src={Image10} alt="team member" class="img-responsive"    height='150px' width='150px'/>
+                              </div>
+            
+                          </div>
+                          <div class="team-title text-center">
+                          <div id="wrapper">  
+                              <h5>م.علي بن إبراهيم المسيدي</h5>
+                              <span>المدير التنفيذي</span>
+                              <br></br>
+                              <a href="#open-modal8">ملف التعريف</a>
+                          </div>
+
+                          <div id="open-modal8" class="modal-window">
+              <div>
+              <a href="#modal-close" title="Close" class="modal-close " > <h1>&times;</h1></a>
+                  <div class="text-right">
+                            <h5>المؤهلات العلمية</h5>
+                            <ul>
+                                <li>درجة البكالوريس في الهندسة الصناعية بجامعة الملك عبدالعزيز</li> 
+                                </ul>
+                           <h5>الخبرات العملية</h5>
+                           <ul>
+                                      <li> مهندس في قسم الادارة العامة في شركة عبداللطيف جميل المحدودة</li>
+                                      <li> مهندس جودة في شركة البداهة للصناعات الحديثة</li>
+                                      <li> مدير المشاريع في مجموعة الحمد</li>
+                                      <li> مشرف قسم النقل و الحركة في شركة سانكيو العالمية</li>
+
+                                      </ul>
+                           <h5>الخبرات الاستشارية</h5>
+                           <ul>
+                                      <li>مؤشر قياس الاداء</li>
+                                      <li>إدارة سلاسل الامداد</li>
+                                      <li>الادارة الاستراتيجية</li>
+                                      <li>دراسات الجدوى</li>
+                                      <li>دارة الجودة</li>
+                                       </ul>    
+                                      </div>
+</div>
+</div>  </div>
+                      </div>
+ 
+
+                  </div>
                     <div class="row" dir='rtl'>
                  
 
@@ -58,16 +153,14 @@ const Advisors = () => {
                              <ul>
                                         <li> رئيس مجلس ادارة مهارات للتطوير و الاستشارات وهو اول بيت خبرة بجامعة الملك عبدالعزيز</li>
                                         <li> عضو هيئة التدريس بقسم الهندسة الميكانيكية</li>
-                                        <li> رئيس لجنة تقنية المعلومات بقسم الهندسة الميكانيكية</li>
+                                        <li> نائب مدير مركز تطوير التعليم الجامعي في جامعة الملك عبدالعزيز</li>
                                         </ul>
                              <h5>الخبرات الاستشارية</h5>
                              <ul>
                                         <li>التخطيط الاستراتيجية</li>
                                         <li>ادارة المشاريع الاحترافية</li>
                                         <li>الادارة الاستراتيجية</li>
-                                        <li>صناعة الابداع و الابتكار</li>
-                                        <li>التدريب الشخصي</li>
-                                        <li>حل المشكلات و صناعة القرار</li>
+                                     
                                         </ul>    
     </div>
   </div>
@@ -105,7 +198,6 @@ const Advisors = () => {
                                         <li> المؤسس و الرئيس التنفيذي لمركز مهارات رواد التدريب </li>
                                         <li> المؤسس و الرئيس التنفيذي لمؤسسة وصول العالمية</li>
                                         <li> مدير عام ادارة تطوير الاعمال لبرنامج HR+2</li>
-                                        <li>  الرئيس التنفيذي لمطبعة صلاح</li>
                                         <li> المدير التنفيذي لقسم المشتريات في شركة سيمنز</li>
 
                                         </ul>
@@ -115,8 +207,7 @@ const Advisors = () => {
                                         <li>هيكلة الشركات</li>
                                         <li>الادارة الاستراتيجية</li>
                                         <li>المشتريات الاستراتيجية</li>
-                                        <li>شؤون الموظفين</li>
-                                         </ul>    
+                                          </ul>    
                                         </div>
  </div>
   </div>
@@ -151,7 +242,7 @@ const Advisors = () => {
                             </div>
                             <div id="open-modal2" class="modal-window">
                 <div>
-                <a href="#modal-close" title="Close" class="modal-close " > <h1>&times;</h1></a>
+                <a href="#modal-close" title="Close" class="modal-close " > <h1>  &times;</h1></a>
                     <div class="text-right">
                               <h5>المؤهلات العلمية</h5>
                               <ul>
@@ -239,6 +330,50 @@ const Advisors = () => {
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member text-center">
                                 <div class="team-img">
+                                <img src={Image07} alt="team member" class="img-responsive"     height='150px' width='150px'/>
+                                </div>
+                       
+                            </div>
+                            <div class="team-title text-center">
+                            <div id="wrapper">  
+                                <h5>م. متعب صاهود المطيري</h5>
+                                <span>مستشار  </span>
+                                <br></br>
+                                <a href="#open-modal5">ملف التعريف</a>
+                            </div>
+
+                            <div id="open-modal5" class="modal-window">
+                <div>
+                <a href="#modal-close" title="Close" class="modal-close " > <h1>&times;</h1></a>
+                    <div class="text-right">
+                              <h5>المؤهلات العلمية</h5>
+                              <ul>
+                              <li>بكالوريوس في الهندسة الكهربائية – نظام الاتصالات - من جامعة الملك فهد للبترول والمعادن.</li> 
+                                  </ul>
+                             <h5>الخبرات العملية</h5>
+                             <ul>
+                             <li>مدير دائرة الاتصالات وتقنية المعلومات بوزارة الداخلية بالعاصمة المقدسة.</li>
+                             <li>مساعد مدير ادارة الاتصالات وتقنية المعلومات بوزارة الداخلية بمنطقة مكة المكرمة.</li>
+                             <li>مدير ادارة الاتصالات وتقنية المعلومات بوزارة الداخلية بمنطقة مكة المكرمة.</li>
+                                       
+                                        </ul>
+                             <h5>الخبرات الاستشارية</h5>
+                             <ul>
+                             <li>إدارة المشاريع</li>
+                             <li>الادارة الاستراتيجية</li>
+                             <li>مؤشرات قياس الأداء</li>
+                             <li>الادارة الهندسية</li>
+                                        </ul>    
+                                        </div>
+ </div>
+ </div>  </div>
+
+
+
+                        </div>
+                        <div class="col-md-4 col-sm-4">
+                            <div class="team-member text-center">
+                                <div class="team-img">
                                 <img src={Image05} alt="team member" class="img-responsive"   height='150px' width='150px'/>
                                 </div>
            
@@ -266,7 +401,10 @@ const Advisors = () => {
                              <li> مساعد تنفيذي في البنك الاهلي التجاري</li>
                                         <li> مدير برنامج الولاء و الحفاظ على العملاء في البنك الاهلي التجاري</li>
                                         <li> مدير وحدة الولاء في البنك الاهلي التجاري</li>
-                                        <li>  المؤسس و المدير العام لمطاعم فطور فارس</li>
+                                        <li>مدير الشراكات وتطوير المبيعات في البنك الأهلي التجاري.</li>
+                                         <li>  المؤسس و المدير العام لمطاعم فطور فارس</li>
+                                        <li>شريك ومؤسس في مقهى قطرات وتطبيق صبار للتوظيف وشركة حركة للترفيه</li>
+                                        <li>رئيس لجنة شباب الاعمال بالغرفة التجارية بجدة</li>
 
 
                                         </ul>
@@ -316,6 +454,9 @@ const Advisors = () => {
                                         <li> محلل اعمال في مجموعة بناء في جدة</li>
                                         <li> مدير المشاريع في مجموعة بناء في جدة</li>
                                         <li>  استاذ مساعد في قسم الهندسة الصناعيةبجامعة جدة</li>
+                                        <li>رئيس بيت الخبرة لمركز منارات للتدريب والاستشارات بجامعة جدة.</li>
+                                        <li>مستشار برنامج خدمة ضيوف الرحمن (أحد البرامج التنفيذية لرؤية المملكة 2030</li>
+                                        <li>مستشار معهد خادم الحرمين الشريفين لأبحاث الحج والعمرة والزيارة بجامعة أم القرى</li>
                                         </ul>
                              <h5>الخبرات الاستشارية</h5>
                              <ul>
@@ -323,8 +464,7 @@ const Advisors = () => {
                                         <li>التخطيط التنفيذي </li>
                                         <li>ادارة المشاريع</li>
                                         <li>استخدام المحاكاة لتحليل و تطوير العمليات</li>
-                                        <li>رسم العمليات</li>
-                                        <li>التخطيط التحكم في الانتاج</li>
+                                         <li>التخطيط التحكم في الانتاج</li>
                                         </ul>    
                                         </div>
  </div>
@@ -334,48 +474,7 @@ const Advisors = () => {
 
                         </div>
 
-                    </div>
-                    <div class="row"dir='rtl'>
-                      
 
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member text-center">
-                                <div class="team-img">
-                                <img src={Image07} alt="team member" class="img-responsive"     height='150px' width='150px'/>
-                                </div>
-                       
-                            </div>
-                            <div class="team-title text-center">
-                            <div id="wrapper">  
-                                <h5>م. متعب صاهود المطيري</h5>
-                                <span>مستشار  </span>
-                                <br></br>
-                                <a href="#open-modal5">ملف التعريف</a>
-                            </div>
-
-                            <div id="open-modal5" class="modal-window">
-                <div>
-                <a href="#modal-close" title="Close" class="modal-close " > <h1>&times;</h1></a>
-                    <div class="text-right">
-                              <h5>المؤهلات العلمية</h5>
-                              <ul>
-                              <li>بكالوريس في الهندسة الكهربائية في جامعةالملك فهد للبترول و المعادن</li> 
-                                  </ul>
-                             <h5>الخبرات العملية</h5>
-                             <ul>
-                                       
-                                        </ul>
-                             <h5>الخبرات الاستشارية</h5>
-                             <ul>
-                                  
-                                        </ul>    
-                                        </div>
- </div>
- </div>  </div>
-
-
-
-                        </div>
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member text-center">
                                 <div class="team-img">
@@ -397,29 +496,29 @@ const Advisors = () => {
                     <div class="text-right">
                               <h5>المؤهلات العلمية</h5>
                               <ul>
-                                  <li>درجة البكالوريس من قسم هندسة الانتاج بجامعة الملك عبدالعزيز</li>
-                                  <li> درجة الماجستير من قسم الهندسة الميكانيكية بجامعة ميريلاند بالولايات المتحدة الامريكية</li>
-                                  <li> درجة الدكتوراه قسم الهندسة الميكانيكية بجامعة ميريلاند بالولايات المتحدة الامريكية</li>
+                                  <li>بكالوريوس في الهندسة والعمارة الاسلامية من جامعة أم القرى.</li> 
                                   </ul>
                              <h5>الخبرات العملية</h5>
                              <ul>
-                                        <li> رئيس مجلس ادارة مهارات للتطوير و الاستشارات وهو اول بيت خبرة بجامعة الملك عبدالعزيز</li>
-                                        <li> عضو هيئة التدريس بقسم الهندسة الميكانيكية</li>
-                                        <li> رئيس لجنة تقنية المعلومات بقسم الهندسة الميكانيكية</li>
+                             <li>مهندس معماري بشركة علوان التجارية.</li>
+                             <li>مدير موقع بمجموعة الفيصلية.</li>
+                             <li>مدير المشاريع بالشركة العربية الطبية – نواه.</li>
+                             <li>مدير المشاريع بمجموعة الفيصلية.</li>
                                         </ul>
                              <h5>الخبرات الاستشارية</h5>
                              <ul>
-                                        <li>التخطيط الاستراتيجية</li>
-                                        <li>ادارة المشاريع الاحترافية</li>
-                                        <li>الادارة الاستراتيجية</li>
-                                        <li>صناعة الابداع و الابتكار</li>
-                                        <li>التدريب الشخصي</li>
-                                        <li>حل المشكلات و صناعة القرار</li>
+                                        <li>إدارة المشاريع</li>
+                                        <li>ادارة المخاطر</li>
+                                        <li>التصاميم المعمارية</li>
+                                        <li>التصميم الداخلي</li>
+                               
                                         </ul>    
                                         </div>
  </div>
  </div>  </div>
                         </div>
+
+
                         <div class="col-md-4 col-sm-4">
                             <div class="team-member text-center">
                                 <div class="team-img">
@@ -429,7 +528,7 @@ const Advisors = () => {
                             </div>
                             <div class="team-title text-center">
                             <div id="wrapper"> 
-                                <h5>م. عماد وعظ لبدين </h5>
+                                <h5>م. عماد عبدالرزاق وعظ الدين </h5>
                                 <span>مستشار</span>
                                 <br></br>
                                 <a href="#open-modal">ملف التعريف</a>
@@ -442,125 +541,27 @@ const Advisors = () => {
                     <div class="text-right">
                               <h5>المؤهلات العلمية</h5>
                               <ul>
-                                  <li>درجة البكالوريس من قسم هندسة الانتاج بجامعة الملك عبدالعزيز</li>
-                                  <li> درجة الماجستير من قسم الهندسة الميكانيكية بجامعة ميريلاند بالولايات المتحدة الامريكية</li>
-                                  <li> درجة الدكتوراه قسم الهندسة الميكانيكية بجامعة ميريلاند بالولايات المتحدة الامريكية</li>
-                                  </ul>
+                                  <li>بكالوريوس في الهندسة المدنية من جامعة أم القرى</li>
+                                    </ul>
                              <h5>الخبرات العملية</h5>
                              <ul>
-                                        <li> رئيس مجلس ادارة مهارات للتطوير و الاستشارات وهو اول بيت خبرة بجامعة الملك عبدالعزيز</li>
-                                        <li> عضو هيئة التدريس بقسم الهندسة الميكانيكية</li>
-                                        <li> رئيس لجنة تقنية المعلومات بقسم الهندسة الميكانيكية</li>
-                                        </ul>
+                                        <li>مهندس مدني بالإدارة الهندسية بالهيئة الملكية للجبيل وينبع</li>
+                                        <li>الرئيس التنفيذي لمجموعة عبدالرزاق وعظ الدين التجارية</li>
+                                         </ul>
                              <h5>الخبرات الاستشارية</h5>
                              <ul>
-                                        <li>التخطيط الاستراتيجية</li>
-                                        <li>ادارة المشاريع الاحترافية</li>
-                                        <li>الادارة الاستراتيجية</li>
-                                        <li>صناعة الابداع و الابتكار</li>
-                                        <li>التدريب الشخصي</li>
-                                        <li>حل المشكلات و صناعة القرار</li>
+                                        <li>إدارة المشاريع</li>
+                                        <li>تصاميم الطرق والبنية التحتية</li>
+                                        <li>الدراسات المرورية</li>
+                               
                                         </ul>    
                                         </div>
  </div>
  </div>  </div>
                         </div>
-
                     </div>
-                    <div class="row"dir='rtl'>
-                      
+           
 
-                      <div class="col-md-4 col-sm-4 ">
-                          <div class="team-member text-center">
-                              <div class="team-img">
-                              <img src={Image07} alt="team member" class="img-responsive"     height='150px' width='150px'/>
-                              </div>
-                     
-                          </div>
-                          <div class="team-title text-center">
-                          <div id="wrapper">  
-                              <h5>م.حمد بن رشيد النور</h5>
-                              <span>المديرالعام  </span>
-                              <br></br>
-                              <a href="#open-modal9">ملف التعريف</a>
-                          </div>
-
-                          <div id="open-modal9" class="modal-window">
-              <div>
-              <a href="#modal-close" title="Close" class="modal-close " > <h1>&times;</h1></a>
-                  <div class="text-right">
-                            <h5>المؤهلات العلمية</h5>
-                            <ul>
-                            <li>حاصل على درجة البكالوريس في الهندسة الصناعية من جامعة الملك عبدالعزيز</li> 
-                                </ul>
-                           <h5>الخبرات العملية</h5>
-                           <ul>
-                           <li>مهندس تطوير إداري في امانةالعاصمة المقدسة</li> 
-                           <li> المدير العام لمجموعة الحمد</li> 
-                           <li>المدير العام للحمد للمقاولات</li> 
-
-                                      </ul>
-                           <h5>الخبرات الاستشارية</h5>
-                           <ul>
-                           <li>إدارة المخاطر </li> 
-                           <li>إدارة عمليات إعادة الهيكلة</li> 
-                           <li>الادارة الاستراتيجية</li> 
-                           <li>ادارةالمشاريع</li> 
-
-                                      </ul>    
-                                      </div>
-</div>
-</div>  </div>
-
-
-
-                      </div>
-                      <div class="col-md-4 col-sm-4">
-                          <div class="team-member text-center">
-                              <div class="team-img">
-                              <img src={Image08} alt="team member" class="img-responsive"    height='150px' width='150px'/>
-                              </div>
-            
-                          </div>
-                          <div class="team-title text-center">
-                          <div id="wrapper">  
-                              <h5>م.علي بن إبراهيم المسيدي</h5>
-                              <span>المدير التنفيذي</span>
-                              <br></br>
-                              <a href="#open-modal8">ملف التعريف</a>
-                          </div>
-
-                          <div id="open-modal8" class="modal-window">
-              <div>
-              <a href="#modal-close" title="Close" class="modal-close " > <h1>&times;</h1></a>
-                  <div class="text-right">
-                            <h5>المؤهلات العلمية</h5>
-                            <ul>
-                                <li>درجة البكالوريس في الهندسة الصناعية بجامعة الملك عبدالعزيز</li> 
-                                </ul>
-                           <h5>الخبرات العملية</h5>
-                           <ul>
-                                      <li> مهندس في قسم الادارة العامة في شركة عبداللطيف جميل المحدودة</li>
-                                      <li> مهندس جودة في شركة البداهة للصناعات الحديثة</li>
-                                      <li> مدير المشاريع في مجموعة الحمد</li>
-                                      <li> مشرف قسم النقل و الحركة في شركة سانكيو العالمية</li>
-
-                                      </ul>
-                           <h5>الخبرات الاستشارية</h5>
-                           <ul>
-                                      <li>مؤشر قياس الاداء</li>
-                                      <li>إدارة سلاسل الامداد</li>
-                                      <li>الادارة الاستراتيجية</li>
-                                      <li>دراسات الجدوى</li>
-                                      <li>دارة الجودة</li>
-                                       </ul>    
-                                      </div>
-</div>
-</div>  </div>
-                      </div>
- 
-
-                  </div>
                 </div>
  
     </Section>

@@ -11,6 +11,12 @@ import Image4 from '../../../assets/img/Kurkan.jpg';
 import Image5 from '../../../assets/img/laffah.png';
 import Image6 from '../../../assets/img/sama.png';
 import Image7 from '../../../assets/img/ma.png';
+ import Image10 from '../../../assets/img/gyias.jpg';
+ import Image11 from '../../../assets/img/AMANAHJEDDAH.png';
+ import Image13 from '../../../assets/img/RI3y.jpg';
+
+import Image12 from '../../../assets/img/maz.jpeg';
+
 
 
 
@@ -31,15 +37,26 @@ const Blog = () => {
  
            <div className='row tt' dir='rtl'>
 
-      
+           <div  className='text-center'>
+                <img src={Image10}   height='110px' width='110px' hspace="20"/>
+   
+              </div>  
+               <div  className='text-center'>
+                <img src={Image11}   height='110px' width='110px' hspace="20"/>
+   
+              </div>   
               <div  className='text-center'>
-                <img src={Image1}    height='110px' width='110px' hspace="40"/>
+                <img src={Image13}   height='110px' width='110px' hspace="20"/>
+   
+              </div>
+              <div  className='text-center'>
+                <img src={Image1}    height='110px' width='110px' hspace="20"/>
  
               </div>
              
      
             <div  className='text-center'>
-                <img src={Image2}  height='110px' width='110px' hspace="40"/>
+                <img src={Image2}  height='110px' width='110px' hspace="20"/>
  
               </div>
           
@@ -47,31 +64,39 @@ const Blog = () => {
  
     
             <div  className='text-center'>
-                <img src={Image7}   height='110px' width='110px' hspace="40"/>
+                <img src={Image7}   height='110px' width='110px' hspace="20"/>
  
               </div>
           
        
             <div  className='text-center'>
-                <img src={Image3}   height='110px' width='110px' hspace="40"/>
+                <img src={Image3}   height='110px' width='110px' hspace="20"/>
  
               </div>
           
      
             <div  className='text-center'>
-                <img src={Image4}   height='110px' width='110px' hspace="40"/>
+                <img src={Image4}   height='110px' width='110px' hspace="20"/>
    
               </div>
-            
+              <div  className='text-center'>
+                <img src={Image4}   height='110px' width='110px' hspace="20"/>
+   
+              </div>
  
          
             <div  className='text-center'>
-                <img src={Image6}  height='110px' width='110px'  hspace="40"/>
+                <img src={Image6}  height='110px' width='110px'  hspace="20"/>
     
               </div>
               <div  className='text-center'>
-                <img src={Image5}   height='110px' width='110px' hspace="40"/>
+                <img src={Image5}   height='110px' width='110px' hspace="20"/>
  
+              </div>
+
+              <div  className='text-center'>
+                <img src={Image12}   height='110px' width='110px' hspace="20"/>
+   
               </div>
               </div>
             
