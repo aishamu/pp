@@ -12,8 +12,8 @@ import Image06 from '../../../assets/img/ab.png';
 import Image07 from '../../../assets/img/mu.png';
 import Image08 from '../../../assets/img/ra.png';
 import Image09 from '../../../assets/img/ss.png';
-import Image10 from '../../../assets/img/ali.jpeg';
-import Image11 from '../../../assets/img/hamd.jpeg';
+import Image10 from '../../../assets/img/ali.png';
+import Image11 from '../../../assets/img/hamd.png';
 const Advisors = () => {
   return (
     
