@@ -113,14 +113,15 @@ const Service = () => {
   alignItems: 'center'}} class='custom-list' >
  
  
- <li style={{textAlign : 'right',fontSize : '15px'}} > المخططات و تشمل المعمارية الانشائية، الكهربائية ، الميكانيكية</li>
- <li style={{textAlign : 'right',fontSize : '15px'}} >رخص البناء</li>
- <li style={{textAlign : 'right',fontSize : '15px'}} > التصميم الداخلي</li>
- <li style={{textAlign : 'right',fontSize : '15px'}} >الاشراف الهندسي</li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} > خدمات التأسيس</li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} > دراسات الجدوى</li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} >بناء الهوية التجارية</li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} >نموذج العمل التجاري</li>
  <li style={{textAlign : 'right',fontSize : '15px'}} >ادارة المشاريع</li>
- <li style={{textAlign : 'right',fontSize : '15px'}} >استشارات الامن و السلامة</li>
- <li style={{textAlign : 'right',fontSize : '15px'}} > التصميم الحضري </li>
- <li style={{textAlign : 'right',fontSize : '15px'}} > التخطيط</li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} >خطط و استراتيجيات التسويق</li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} > الاستشارات التشغيلية </li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} > حلول سلاسل الامداد</li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} > الاستشارات الهندسية</li>
 
 
 </ul> 
