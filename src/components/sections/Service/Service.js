@@ -74,8 +74,7 @@ const Service = () => {
   <li style={{textAlign : 'right',fontSize : '15px'}} >تخطيط العمليا و تبسيط الاجراءات</li>
   <li style={{textAlign : 'right',fontSize : '15px'}} >حلول التمويل الصناعي و ذلك عن طريق : صندوق التنمية الصناعي- البنوك-المستثمرين</li>
   <li style={{textAlign : 'right',fontSize : '15px'}} >اجراءات الدراسات و تحليل البيانات لتطوير بيئة العمل الصناعية</li>
-  <li style={{textAlign : 'right',fontSize : '15px'}} > اجراءات الدراسات و تحليل البيانات لتطوير بيئة العمل الصناعية</li>
-  <li style={{textAlign : 'right',fontSize : '15px'}} > التأهيل و الاستشارات التشغيلية</li>
+   <li style={{textAlign : 'right',fontSize : '15px'}} > التأهيل و الاستشارات التشغيلية</li>
   <li style={{textAlign : 'right',fontSize : '15px'}} > تطوير خطط الانتاج و ادارة الجودة</li>
  
  
