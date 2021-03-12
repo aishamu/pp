@@ -24,23 +24,22 @@ const Service = () => {
    
         </div>
 
-
-        <div style={{overflowX:'auto' }}dir='rtl' className=' container  '>
-  <table className='text-center'>
-    <tr className='text-right'>
-    <th  style={{paddingLeft:'0px'}}className='text-center'>  <img src={icon3} alt="team member" class="img-responsive"  height='60px' width='60px'    />
-
-<h5>الاستشارات الادارية</h5></th>
-<th  style={{paddingLeft:'0px'}} className='text-center'>  <img src={icon2} alt="team member" class="img-responsive"  height='60px' width='60px'/>
-
-<h5>الاستشارات الصناعية</h5></th>
+  
  
- 
- 
-    </tr>
-    <tr>
-      <td>  <ul dir='rtl'>
-  <li style={{textAlign : 'right',fontSize : '15px'}} > تصميم مؤشرات قياس الاداء</li>
+  
+
+
+  <div style={{overflowX:'auto' }} className=' container  text-center' >
+    
+  <img src={icon3} alt="team member" class="img-responsive"  height='50px' width='60px'    />
+
+<h5>الاستشارات الادارية</h5>
+<br></br>
+
+<ul dir='rtl'  style={{  display: 'grid',
+  justifyContent: 'center',
+  alignItems: 'center'}} class='custom-list' >
+  <li style={{textAlign : 'right',fontSize : '15px' }} > تصميم مؤشرات قياس الاداء</li>
   <li style={{textAlign : 'right',fontSize : '15px'}} > التخطيط الاستراتيجي واعداد خطة العمل</li>
   <li style={{textAlign : 'right',fontSize : '15px'}} > التطوير الاداري وتطوير الاعمال</li>
   <li style={{textAlign : 'right',fontSize : '15px'}} >  حوكمة الشركات</li>
@@ -55,11 +54,20 @@ const Service = () => {
   <li style={{textAlign : 'right',fontSize : '15px'}} > تطوير و رفع كفاءة ادارة المواد البشرية وادارتها</li>
   <li style={{textAlign : 'right',fontSize : '15px'}} > دراسات الجدوى الاقتصادية و تشمل: الدراسات التسويقية - الدرسات<br></br> الفنية -الدراسات المالية</li>
   
-</ul> </td>
-      <td> 
-  <ul dir='rtl'>
+</ul>
+<br></br>
+
+
+<img src={icon2} alt="team member" class="img-responsive"  height='50px' width='60px'/>
+
+<h5>الاستشارات الصناعية</h5>
+<br></br>
+
+<ul dir='rtl'  style={{  display: 'grid',
+  justifyContent: 'center',
+  alignItems: 'center'}} class='custom-list' >
  
-  <li style={{textAlign : 'right',fontSize : '15px'}} >تأهيل الشركات للحصول على الايزو<br></br> في المجالات المختلفة</li>
+  <li style={{textAlign : 'right',fontSize : '15px'}} >تأهيل الشركات للحصول على الايزو في المجالات المختلفة</li>
   <li style={{textAlign : 'right',fontSize : '15px'}} >تصميم عمليات الانتاج و تصميم موقع العمل</li>
   <li style={{textAlign : 'right',fontSize : '15px'}} >  تشخيص و حل المشاكل الصناعية القائمة</li>
   <li style={{textAlign : 'right',fontSize : '15px'}} >تشخيص مشكلات اداء العمليات ووضع الحلول التنفيذية لها</li>
@@ -71,33 +79,42 @@ const Service = () => {
   <li style={{textAlign : 'right',fontSize : '15px'}} > تطوير خطط الانتاج و ادارة الجودة</li>
  
  
-</ul> </td>
- 
- 
- 
- 
-    </tr>
-  </table>
+</ul>
 <br></br>
-<table className='text-center'>
-  <tr className='text-right'>
- 
-  <th  style={{paddingLeft:'0px'}}className='text-center'>       <img src={icon1} alt="team member" class="img-responsive  "  height='60px' width='60px'/>
 
-<h5>الاستشارات الهندسية</h5></th>
- 
-<th  style={{paddingLeft:'0px'}}className='text-center'>           <img src={icon1} alt="team member" class="img-responsive"  height='60px' width='60px'/>
 
-<h5>خدمات المطاعم  <br></br>والمقاهي</h5></th>
-    </tr>
-    <tr>
+<img src={icon1} alt="team member" class="img-responsive  "  height='50px' width='60px'/>
+
+<h5>الاستشارات الهندسية</h5>
+<br></br>
+
+<ul dir='rtl'  style={{  display: 'grid',
+  justifyContent: 'center',
+  alignItems: 'center'}} class='custom-list' >
+ 
+ <li style={{textAlign : 'right',fontSize : '15px'}} > المخططات و تشمل المعمارية الانشائية، الكهربائية ، الميكانيكية</li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} >رخص البناء</li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} > التصميم الداخلي</li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} >الاشراف الهندسي</li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} >ادارة المشاريع</li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} >استشارات الامن و السلامة</li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} > التصميم الحضري </li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} > التخطيط</li>
+
+
+</ul> 
+<br></br>
+<img src={icon1} alt="team member" class="img-responsive"  height='50px' width='60px'/>
+
+<h5>خدمات المطاعم  <br></br>والمقاهي</h5>
+<br></br>
+
+<ul dir='rtl'  style={{  display: 'grid',
+  justifyContent: 'center',
+  alignItems: 'center'}} class='custom-list' >
  
  
-      <td>  
-  <ul dir='rtl'>
- 
- 
- <li style={{textAlign : 'right',fontSize : '15px'}} > المخططات و تشمل المعمارية الانشائية، <br></br>الكهربائية ، الميكانيكية</li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} > المخططات و تشمل المعمارية الانشائية، الكهربائية ، الميكانيكية</li>
  <li style={{textAlign : 'right',fontSize : '15px'}} >رخص البناء</li>
  <li style={{textAlign : 'right',fontSize : '15px'}} > التصميم الداخلي</li>
  <li style={{textAlign : 'right',fontSize : '15px'}} >الاشراف الهندسي</li>
@@ -109,29 +126,12 @@ const Service = () => {
 
 </ul> 
 
-</td>
-     
-     
-      <td> 
-  <ul dir='rtl'>
- 
- 
-  
-  <li style={{textAlign : 'right',fontSize : '15px'}} > خدمات التأسيس</li>
- <li style={{textAlign : 'right',fontSize : '15px'}} >دراسات الجدوى</li>
- <li style={{textAlign : 'right',fontSize : '15px'}} > بناء الهوية التجارية</li>
- <li style={{textAlign : 'right',fontSize : '15px'}} >نموذج العمل التجاري</li>
- <li style={{textAlign : 'right',fontSize : '15px'}} >خطط و استراتيجيات التسويق</li>
- <li style={{textAlign : 'right',fontSize : '15px'}} >  الاستشارات التشغيلية</li>
- <li style={{textAlign : 'right',fontSize : '15px'}} > حلول سلاسل الامداد</li>
- <li style={{textAlign : 'right',fontSize : '15px'}} > الاستشارات الهندسية</li>
- 
-</ul> </td>
- 
- 
-    </tr>
-  </table>
+
 </div>
+
+
+
+
  
 
 
