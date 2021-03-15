@@ -493,10 +493,10 @@ alignItems: 'center'}} >
                                 <h5>م. ريان منير السليماني</h5>
                                 <span>مستشار</span>
                                 <br></br>
-                                <a href="#open-modal">ملف التعريف</a>
+                                <a href="#open-modal13">ملف التعريف</a>
                             </div>
 
-                            <div id="open-modal" class="modal-window">
+                            <div id="open-modal13" class="modal-window">
                 <div>
                 <a href="#modal-close" title="Close" class="modal-close " >  <h1>&times;</h1></a>
                     <div class="text-right">
@@ -537,11 +537,11 @@ alignItems: 'center'}} >
                                 <h5>م. عماد عبدالرزاق وعظ الدين </h5>
                                 <span>مستشار</span>
                                 <br></br>
-                                <a href="#open-modal">ملف التعريف</a>
+                                <a href="#open-modal12">ملف التعريف</a>
                             </div>
 
 
-                            <div id="open-modal" class="modal-window">
+                            <div id="open-modal12" class="modal-window">
                 <div>
                 <a href="#modal-close" title="Close" class="modal-close " >  <h1>&times;</h1></a>
                     <div class="text-right">
