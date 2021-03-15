@@ -14,7 +14,7 @@ const topBar = () => {
             </div>
             <div className='d-flex align-item-center'>
               <i className='fas fa-envelope mr-2' />
-              <small>infom@esttishara.com</small>
+              <small>info@esttishara.com</small>
             </div>
           </div>
           <div className='d-flex pt-2 pb-2'>
