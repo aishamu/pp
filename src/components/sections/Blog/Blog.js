@@ -39,11 +39,11 @@ const Blog = () => {
            <div className='row tt' dir='rtl'>
 
            <div  className='text-center'>
-                <img src={Image10}   height='110px' width='110px' hspace="20"/>
+                <img src={Image10}   height='90px' width='100px' hspace="20"/>
    
               </div>  
                <div  className='text-center'>
-                <img src={Image11}   height='110px' width='110px' hspace="20"/>
+                <img src={Image11}   height='110px' width='160px' hspace="20"/>
    
               </div>   
               <div  className='text-center'>

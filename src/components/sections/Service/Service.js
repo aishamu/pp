@@ -1,10 +1,11 @@
 import React from 'react';
 
 import Section from '../../../HOC/Section';
-import icon1 from '../../../assets/img/icon1.png';
+import icon1 from '../../../assets/img/geom.png';
 
-import icon2 from '../../../assets/img/icon2.png';
-import icon3 from '../../../assets/img/icon3.png';
+import icon2 from '../../../assets/img/mangment.png';
+import icon3 from '../../../assets/img/indes.png';
+import icon4 from '../../../assets/img/rest.png';
 
 const Service = () => {
   return (
@@ -31,7 +32,7 @@ const Service = () => {
 
   <div style={{overflowX:'auto' }} className=' container  text-center' >
     
-  <img src={icon3} alt="team member" class="img-responsive"  height='50px' width='60px'    />
+  <img src={icon2} alt="team member" class="img-responsive"  height='50px' width='60px'    />
 
 <h5>الاستشارات الادارية</h5>
 <br></br>
@@ -58,7 +59,7 @@ const Service = () => {
 <br></br>
 
 
-<img src={icon2} alt="team member" class="img-responsive"  height='50px' width='60px'/>
+<img src={icon3} alt="team member" class="img-responsive"  height='50px' width='60px'/>
 
 <h5>الاستشارات الصناعية</h5>
 <br></br>
@@ -103,7 +104,7 @@ const Service = () => {
 
 </ul> 
 <br></br>
-<img src={icon1} alt="team member" class="img-responsive"  height='50px' width='60px'/>
+<img src={icon4} alt="team member" class="img-responsive"  height='50px' width='60px'/>
 
 <h5>خدمات المطاعم  <br></br>والمقاهي</h5>
 <br></br>

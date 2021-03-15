@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Section from '../../../HOC/Section';
-import bgImage from '../../../assets/img/home_bg.jpg';
+import bgImage from '../../../assets/img/b3.png';
 import Link from '../../UI/Link/Link';
 
 const home = () => {

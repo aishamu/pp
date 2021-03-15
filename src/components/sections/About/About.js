@@ -1,7 +1,9 @@
 import React from 'react';
 
 import Section from '../../../HOC/Section';
-import aboutImage from '../../../assets/img/about.jpg';
+import aboutImage1 from '../../../assets/img/b1.png';
+import aboutImage2 from '../../../assets/img/b2.png';
+import aboutImage3 from '../../../assets/img/b4.png';
 
 const about = () => {
   return (
@@ -17,7 +19,7 @@ const about = () => {
           <div className='row'>
             <div className='col-md-12 col-lg-6 mb-3'>
               <div className='aboutImage'>
-                <img src={aboutImage} alt='about company' />
+                <img src={aboutImage1} alt='about company' />
               </div>
             </div>
             <div className='col-md-12 col-lg-6'>
@@ -57,14 +59,14 @@ const about = () => {
             </div>
             <div className='col-md-12 col-lg-6 mb-3'>
               <div className='aboutImage'>
-                <img src={aboutImage} alt='about company' />
+                <img src={aboutImage2} alt='about company' />
               </div>
             </div>
           </div>
           <div className='row'>
             <div className='col-md-12 col-lg-6 mb-3'>
               <div className='aboutImage'>
-                <img src={aboutImage} alt='about company' />
+                <img src={aboutImage3} alt='about company' />
               </div>
             </div>
             <div className='col-md-12 col-lg-6'>
