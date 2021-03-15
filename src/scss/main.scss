@@ -19,19 +19,19 @@ $fa-font-path: '~@fortawesome/fontawesome-free/webfonts';
   font-family: Arslan;
   src: url('../../src/assets/fonts/19306-alqabas-light.ttf');
 }
-h3,h2,h4,p,h5{
+h3,h2,h4,p,h5,li,ul{
   font-family: 'Arslan';
 
 }
 body {
   height: 100vh;
-  font-family: 'Arslan', sans-serif;
+  font-family: 'Arslan';
 }
 .section-header {
   .section-title {
     font-weight: bold;
     color: #4e4e4e;
-    font-family: 'Arslan', sans-serif;
+    font-family: 'Arslan' ;
     position: relative;
     margin-bottom: 2rem;
     span {
@@ -48,6 +48,8 @@ body {
       top: 45px;
       left: 50%;
       transform: translateX(-50%);
+      font-family: 'Arslan';
+
     }
   }
   .section-subtitle {
@@ -64,8 +66,7 @@ body {
 }
 .heading-title h3 {
   margin-bottom: 0;
-  letter-spacing: 2px;
-  font-weight: normal;
+   font-weight: normal;
 }
 .p-top-30 {
   padding-top: 30px;
@@ -122,6 +123,7 @@ body {
   -webkit-transition: all 0.3s 0.2s;
   transition: all 0.3s 0.2s;
   padding: 0 20px;
+  font-family: 'Arslan';
 }
 .desk, .desk h4, .team-hover .s-link a {
   text-align: center;
@@ -145,37 +147,45 @@ body {
   -webkit-transition: all 0.3s 0.2s;
   transition: all 0.3s 0.2s;
   font-size: 35px;
+  font-family: 'Arslan';
 }
+
 .desk, .desk h6, .team-hover .s-link a {
   text-align: center;
   color: #222;
+  font-family: 'Arslan';
+
 }
 .team-member .s-link a {
   margin: 0 10px;
   color: #333;
   font-size: 16px;
+  font-family: 'Arslan';
 }
+
 .team-title {
   position: static;
   padding: 20px 0;
   display: inline-block;
-  letter-spacing: 2px;
-  width: 100%;
+   width: 100%;
+  font-family: 'Arslan';
+
 }
 .team-title h5 {
   margin-bottom: 0px;
   display: block;
   text-transform: uppercase;
+  font-family: 'Arslan';
 }
 .team-title span {
   font-size: 12px;
   text-transform: uppercase;
   color: #a5a5a5;
-  letter-spacing: 1px;
+   font-family: 'Arslan';
 }
 table {
-  font-family: Arslan, sans-serif;
-  border-collapse: collapse;
+  font-family: 'Arslan';
+    border-collapse: collapse;
   width: 100%;
 }
 
@@ -199,6 +209,7 @@ table {
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   transition: all 0.3s;
+  font-family: 'Arslan';
 }
 
 .modal-window:target {
@@ -216,10 +227,12 @@ table {
   max-height: 600px;
 width: 375px;
   overflow: auto;
+  font-family: 'Arslan';
 }
 
 .modal-window header {
   font-weight: bold;
+  font-family: 'Arslan';
 }
 
 .modal-close {
@@ -232,6 +245,7 @@ width: 375px;
   top: 0;
   width: 50px;
   text-decoration: none;
+  
  
 }
 
@@ -243,6 +257,7 @@ width: 375px;
 .modal-window h1 {
   font-size: 150%;
   margin: 0 0 15px;
+  font-family: 'Arslan';
   
 }
 
