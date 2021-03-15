@@ -33,15 +33,20 @@ const contact = () => {
             
       <h5>www.esttishara.com</h5>   
                         <i  class='fa fa-envelope
-'> infom@esttishara.com</i> 
+'> info@esttishara.com</i> 
                         <br></br>
+                        <a href='https://twitter.com/esttishara?s=21
+'  >
                         Esttishara  <i   className='fab fa-twitter'
                           /> 
-
+</a>
 <br></br>
+<a href='https://www.linkedin.com/company/istishara-consulting' >
+
+
 Esttishara      <i   className='fab fa-linkedin'
                           /> 
-
+</a>
 
 
  
@@ -66,7 +71,7 @@ Esttishara      <i   className='fab fa-linkedin'
           <div class="location text-center">
             <h3  style={{float : 'center'}} > <i class='fas fa-map-marker-alt'></i></h3>
             
-            <h5>طريق الأمير سلطان حي النهضة ، مبنى تاج السلطان للأعمال الدور الثاني 
+            <h5>طريق الأمير سلطان، حي النهضة ،<br></br> مبنى تاج السلطان للأعمال - الدور الثاني 
 <br></br>
               جدة،المملكة العربية السعودية
             </h5>

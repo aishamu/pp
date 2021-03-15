@@ -32,30 +32,30 @@ const Service = () => {
 
   <div style={{overflowX:'auto' }} className=' container  text-center' >
     
-  <img src={icon2} alt="team member" class="img-responsive"  height='50px' width='60px'    />
 
-<h5>الاستشارات الادارية</h5>
+
+
+
+<img src={icon1} alt="team member" class="img-responsive  "  height='50px' width='60px'/>
+
+<h5>الاستشارات الهندسية</h5>
 <br></br>
 
 <ul dir='rtl'  style={{  display: 'grid',
   justifyContent: 'center',
   alignItems: 'center'}} class='custom-list' >
-  <li style={{textAlign : 'right',fontSize : '15px' }} > تصميم مؤشرات قياس الاداء</li>
-  <li style={{textAlign : 'right',fontSize : '15px'}} > التخطيط الاستراتيجي واعداد خطة العمل</li>
-  <li style={{textAlign : 'right',fontSize : '15px'}} > التطوير الاداري وتطوير الاعمال</li>
-  <li style={{textAlign : 'right',fontSize : '15px'}} >  حوكمة الشركات</li>
-  <li style={{textAlign : 'right',fontSize : '15px'}} >  عمليات اعادة الهيكلة</li>
  
- 
+ <li style={{textAlign : 'right',fontSize : '15px'}} > المخططات و تشمل المعمارية الانشائية، الكهربائية ، الميكانيكية</li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} >رخص البناء</li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} > التصميم الداخلي</li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} >الاشراف الهندسي</li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} >ادارة المشاريع</li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} >استشارات الامن و السلامة</li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} > التصميم الحضري </li>
+ <li style={{textAlign : 'right',fontSize : '15px'}} > التخطيط</li>
 
-  
-  <li style={{textAlign : 'right',fontSize : '15px'}} >     عمليات صناعة و تحليل القرار</li>
-  <li style={{textAlign : 'right',fontSize : '15px'}} >  تصميم الخطط النتعلقة بريادة الاعمال</li>
-  <li style={{textAlign : 'right',fontSize : '15px'}} >  تحليل و تطوير الانظمة المتعلقة بسلاسل الامداد</li>
-  <li style={{textAlign : 'right',fontSize : '15px'}} > تطوير و رفع كفاءة ادارة المواد البشرية وادارتها</li>
-  <li style={{textAlign : 'right',fontSize : '15px'}} > دراسات الجدوى الاقتصادية و تشمل: الدراسات التسويقية - الدرسات<br></br> الفنية -الدراسات المالية</li>
-  
-</ul>
+
+</ul> 
 <br></br>
 
 
@@ -82,27 +82,30 @@ const Service = () => {
 </ul>
 <br></br>
 
+<img src={icon2} alt="team member" class="img-responsive"  height='50px' width='60px'    />
 
-<img src={icon1} alt="team member" class="img-responsive  "  height='50px' width='60px'/>
-
-<h5>الاستشارات الهندسية</h5>
+<h5>الاستشارات الادارية</h5>
 <br></br>
 
 <ul dir='rtl'  style={{  display: 'grid',
   justifyContent: 'center',
   alignItems: 'center'}} class='custom-list' >
+  <li style={{textAlign : 'right',fontSize : '15px' }} > تصميم مؤشرات قياس الاداء</li>
+  <li style={{textAlign : 'right',fontSize : '15px'}} > التخطيط الاستراتيجي واعداد خطة العمل</li>
+  <li style={{textAlign : 'right',fontSize : '15px'}} > التطوير الاداري وتطوير الاعمال</li>
+  <li style={{textAlign : 'right',fontSize : '15px'}} >  حوكمة الشركات</li>
+  <li style={{textAlign : 'right',fontSize : '15px'}} >  عمليات اعادة الهيكلة</li>
  
- <li style={{textAlign : 'right',fontSize : '15px'}} > المخططات و تشمل المعمارية الانشائية، الكهربائية ، الميكانيكية</li>
- <li style={{textAlign : 'right',fontSize : '15px'}} >رخص البناء</li>
- <li style={{textAlign : 'right',fontSize : '15px'}} > التصميم الداخلي</li>
- <li style={{textAlign : 'right',fontSize : '15px'}} >الاشراف الهندسي</li>
- <li style={{textAlign : 'right',fontSize : '15px'}} >ادارة المشاريع</li>
- <li style={{textAlign : 'right',fontSize : '15px'}} >استشارات الامن و السلامة</li>
- <li style={{textAlign : 'right',fontSize : '15px'}} > التصميم الحضري </li>
- <li style={{textAlign : 'right',fontSize : '15px'}} > التخطيط</li>
+ 
 
-
-</ul> 
+  
+  <li style={{textAlign : 'right',fontSize : '15px'}} >     عمليات صناعة و تحليل القرار</li>
+  <li style={{textAlign : 'right',fontSize : '15px'}} >  تصميم الخطط النتعلقة بريادة الاعمال</li>
+  <li style={{textAlign : 'right',fontSize : '15px'}} >  تحليل و تطوير الانظمة المتعلقة بسلاسل الامداد</li>
+  <li style={{textAlign : 'right',fontSize : '15px'}} > تطوير و رفع كفاءة ادارة المواد البشرية وادارتها</li>
+  <li style={{textAlign : 'right',fontSize : '15px'}} > دراسات الجدوى الاقتصادية و تشمل: الدراسات التسويقية - الدرسات<br></br> الفنية -الدراسات المالية</li>
+  
+</ul>
 <br></br>
 <img src={icon4} alt="team member" class="img-responsive"  height='50px' width='60px'/>
 

@@ -15,16 +15,20 @@ $fa-font-path: '~@fortawesome/fontawesome-free/webfonts';
 
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 // @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+@font-face {
+  font-family: Arslan;
+  src: url('../../src/assets/fonts/19306-alqabas-light.ttf');
+}
 
 body {
   height: 100vh;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Arslan', sans-serif;
 }
 .section-header {
   .section-title {
     font-weight: bold;
     color: #4e4e4e;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Arslan', sans-serif;
     position: relative;
     margin-bottom: 2rem;
     span {
@@ -167,7 +171,7 @@ body {
   letter-spacing: 1px;
 }
 table {
-  font-family: arial, sans-serif;
+  font-family: Arslan, sans-serif;
   border-collapse: collapse;
   width: 100%;
 }

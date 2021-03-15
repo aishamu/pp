@@ -19,10 +19,11 @@ const topBar = () => {
           </div>
           <div className='d-flex pt-2 pb-2'>
             <div className='social-media d-flex align-item-center'>
-              <a href='!#' className='text-light'>
+              <a href='https://www.linkedin.com/company/istishara-consulting' className='text-light'>
                 <i className='fab fa-linkedin mr-4' />
               </a>
-              <a href='!#' className='text-light'>
+              <a href='https://twitter.com/esttishara?s=21
+' className='text-light'>
                 <i className='fab fa-twitter mr-4' />
               </a>
      
