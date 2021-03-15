@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26d512211c67666abea492f90f8402db",
+    "revision": "de53c5c9797d61c398f1bc6801f8b7f0",
     "url": "/pp/index.html"
   },
   {
-    "revision": "91d4be586ef4ecd27815",
+    "revision": "ca963d0f173c6313aa17",
     "url": "/pp/static/css/2.397c0040.chunk.css"
   },
   {
-    "revision": "56bfb867576e4dfe0a39",
-    "url": "/pp/static/css/main.86f936f5.chunk.css"
+    "revision": "deebf4929ed136e38674",
+    "url": "/pp/static/css/main.b250cafd.chunk.css"
   },
   {
-    "revision": "91d4be586ef4ecd27815",
-    "url": "/pp/static/js/2.f0789440.chunk.js"
+    "revision": "ca963d0f173c6313aa17",
+    "url": "/pp/static/js/2.abffcd04.chunk.js"
   },
   {
     "revision": "809f8196affeaac0e5176b72b79c267c",
-    "url": "/pp/static/js/2.f0789440.chunk.js.LICENSE.txt"
+    "url": "/pp/static/js/2.abffcd04.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "56bfb867576e4dfe0a39",
-    "url": "/pp/static/js/main.d3849eec.chunk.js"
+    "revision": "deebf4929ed136e38674",
+    "url": "/pp/static/js/main.451b46a9.chunk.js"
   },
   {
     "revision": "5c3a5c6cfb9cd01b6332",
     "url": "/pp/static/js/runtime-main.322ca377.js"
+  },
+  {
+    "revision": "38e60eea3593a4d8641fbbd8f27586ce",
+    "url": "/pp/static/media/19306-alqabas-light.38e60eea.ttf"
   },
   {
     "revision": "289523a25209ed0a7f285434425a6a13",
@@ -64,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pp/static/media/b3.2aa42523.png"
   },
   {
-    "revision": "e17a37fd57e05ddcf012cfffe0e034e6",
-    "url": "/pp/static/media/b4.e17a37fd.png"
+    "revision": "be99f3ec7f20a5a0d36519d2a5ae4679",
+    "url": "/pp/static/media/b4.be99f3ec.jpg"
   },
   {
     "revision": "9f4dfa57cd8fbfcaefc4e463ed6618fd",
