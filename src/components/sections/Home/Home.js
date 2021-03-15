@@ -13,7 +13,7 @@ const home = () => {
           style={{ backgroundImage: `url(${bgImage})` }}
         >
           <div className='intro container text-center text-light'>
-            <h1 className='title'> الاستشارة هي فن استخدام العقول</h1>
+            <h1 className='title'> الاستشارة هي فن استخدام العقول</h1><br></br>
             <h2 className='sub-title mb-4'>
         
 فبدلا من ان تفكر بعقل واحد دع عقولا اخرى تساعدك
