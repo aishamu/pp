@@ -42,8 +42,8 @@ const Service = () => {
 <br></br>
 
 <ul dir='rtl'  style={{  display: 'grid',
-  justifyContent: 'center',
-  alignItems: 'center'}} class='custom-list' >
+  justifyContent: 'center' ,    marginLeft: '5em',
+  textIndent:' 0em'}} class='custom-list' >
  
  <li style={{textAlign : 'right',fontSize : '15px'}} > المخططات و تشمل المعمارية الانشائية، الكهربائية ، الميكانيكية</li>
  <li style={{textAlign : 'right',fontSize : '15px'}} >رخص البناء</li>
@@ -65,8 +65,8 @@ const Service = () => {
 <br></br>
 
 <ul dir='rtl'  style={{  display: 'grid',
-  justifyContent: 'center',
-  alignItems: 'center'}} class='custom-list' >
+  justifyContent: 'center'  ,    marginLeft: '-2em',
+  textIndent:' 0em'}} class='custom-list' >
  
   <li style={{textAlign : 'right',fontSize : '15px'}} >تأهيل الشركات للحصول على الايزو في المجالات المختلفة</li>
   <li style={{textAlign : 'right',fontSize : '15px'}} >تصميم عمليات الانتاج و تصميم موقع العمل</li>
@@ -88,8 +88,13 @@ const Service = () => {
 <br></br>
 
 <ul dir='rtl'  style={{  display: 'grid',
-  justifyContent: 'center',
-  alignItems: 'center'}} class='custom-list' >
+  justifyContent: 'center' ,    marginLeft: '5em',
+  textIndent:' 0em'
+ /* Space size limit */
+
+  
+  
+  }} class='custom-list' >
   <li style={{textAlign : 'right',fontSize : '15px' }} > تصميم مؤشرات قياس الاداء</li>
   <li style={{textAlign : 'right',fontSize : '15px'}} > التخطيط الاستراتيجي واعداد خطة العمل</li>
   <li style={{textAlign : 'right',fontSize : '15px'}} > التطوير الاداري وتطوير الاعمال</li>
@@ -112,12 +117,13 @@ const Service = () => {
 <h5>خدمات المطاعم  <br></br>والمقاهي</h5>
 <br></br>
 
-<ul dir='rtl'  style={{  display: 'grid',
-  justifyContent: 'center',
-  alignItems: 'center'}} class='custom-list' >
+<ul dir='rtl'  style={{  
+  display: 'grid',
+  justifyContent: 'center' ,    marginLeft: '5em',
+  textIndent:' 0em'
+ }} class='custom-list' >
  
  
- <li style={{textAlign : 'right',fontSize : '15px'}} > خدمات التأسيس</li>
  <li style={{textAlign : 'right',fontSize : '15px'}} > دراسات الجدوى</li>
  <li style={{textAlign : 'right',fontSize : '15px'}} >بناء الهوية التجارية</li>
  <li style={{textAlign : 'right',fontSize : '15px'}} >نموذج العمل التجاري</li>
