@@ -72,9 +72,9 @@ const Service = () => {
   <li style={{textAlign : 'right',fontSize : '15px'}} >تصميم عمليات الانتاج و تصميم موقع العمل</li>
   <li style={{textAlign : 'right',fontSize : '15px'}} >  تشخيص و حل المشاكل الصناعية القائمة</li>
   <li style={{textAlign : 'right',fontSize : '15px'}} >تشخيص مشكلات اداء العمليات ووضع الحلول التنفيذية لها</li>
-  <li style={{textAlign : 'right',fontSize : '15px'}} >تخطيط العمليا و تبسيط الاجراءات</li>
+  <li style={{textAlign : 'right',fontSize : '15px'}} >تخطيط العمليات و تبسيط الاجراءات</li>
   <li style={{textAlign : 'right',fontSize : '15px'}} >حلول التمويل الصناعي و ذلك عن طريق : صندوق التنمية الصناعي- البنوك-المستثمرين</li>
-  <li style={{textAlign : 'right',fontSize : '15px'}} >اجراءات الدراسات و تحليل البيانات لتطوير بيئة العمل الصناعية</li>
+  <li style={{textAlign : 'right',fontSize : '15px'}} >اجراء الدراسات و تحليل البيانات لتطوير بيئة العمل الصناعية</li>
    <li style={{textAlign : 'right',fontSize : '15px'}} > التأهيل و الاستشارات التشغيلية</li>
   <li style={{textAlign : 'right',fontSize : '15px'}} > تطوير خطط الانتاج و ادارة الجودة</li>
  
@@ -104,11 +104,11 @@ const Service = () => {
  
 
   
-  <li style={{textAlign : 'right',fontSize : '15px'}} >     عمليات صناعة و تحليل القرار</li>
-  <li style={{textAlign : 'right',fontSize : '15px'}} >  تصميم الخطط النتعلقة بريادة الاعمال</li>
-  <li style={{textAlign : 'right',fontSize : '15px'}} >  تحليل و تطوير الانظمة المتعلقة بسلاسل الامداد</li>
+  <li style={{textAlign : 'right',fontSize : '15px'}} > عمليات صناعة و تحليل القرار</li>
+  <li style={{textAlign : 'right',fontSize : '15px'}} >  تصميم الخطط المتعلقة بريادة الاعمال</li>
+  <li style={{textAlign : 'right',fontSize : '15px'}} > تحليل و تطوير الانظمة المتعلقة بسلاسل الامداد</li>
   <li style={{textAlign : 'right',fontSize : '15px'}} > تطوير و رفع كفاءة ادارة المواد البشرية وادارتها</li>
-  <li style={{textAlign : 'right',fontSize : '15px'}} > دراسات الجدوى الاقتصادية و تشمل: الدراسات التسويقية - الدرسات<br></br> الفنية -الدراسات المالية</li>
+  <li style={{textAlign : 'right',fontSize : '15px'}} > دراسات الجدوى الاقتصادية وتشمل:الدراسات التسويقية-الدراسات الفنية-الدراسات المالية</li>
   
 </ul>
 <br></br>
