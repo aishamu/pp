@@ -47,7 +47,7 @@ const about = () => {
             <div className='col-md-12 col-lg-6'>
               <h3 className='about-title text-right' >رؤيتنا</h3>
               <div className='about-description'>
-                <p className='text-right'>
+              <p className='text-right' dir="rtl">
                 
 
                 ان نكون أفضل جهة استشارية في المملكة في تقديم الاستشارات والحلول المهنية التي تتعلق بالمجالات الهندسية والصناعية والادارية بكل مصداقية واحترافية.
@@ -56,7 +56,7 @@ const about = () => {
  
               <h3 className='about-title text-right'>رسالتنا</h3>
               <div className='about-description'>
-              <p className='text-right'>
+              <p className='text-right' dir="rtl">
           
               توفير اكبر شبكة استشارية في ظل ادارة وبيئة محترفة تتيح لعملائنا اقصى استفادة يوفرها العلم في المجالات الهندسية والصناعية والادارية وتساهم في اطلاق امكانياتهم وتطويرها.            </p>
         
